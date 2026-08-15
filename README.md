@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,498 | 🐛 91 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,497 | 🐛 91 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -149,7 +149,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Title                                                                                             | Conference / Journal | Paper                                              | Code                                                                                                         | Remarks                                                          |
 | ------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
 | Generative Adversarial Text to Image Synthesis                                                    | 2016 ICML            | [1605.05396](https://arxiv.org/abs/1605.05396)     | [icml2016](https://github.com/reedscot/icml2016) ⭐ 911 \| 🐛 31 \| 🌐 Lua \| 📅 2018-09-05                   |                                                                  |
-| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks    | 2017 ICCV            | [1612.03242](https://arxiv.org/abs/1612.03242)     | [StackGAN](https://github.com/hanzhanggit/StackGAN) ⭐ 1,861 \| 🐛 55 \| 🌐 Python \| 📅 2020-05-15           |                                                                  |
+| StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks    | 2017 ICCV            | [1612.03242](https://arxiv.org/abs/1612.03242)     | [StackGAN](https://github.com/hanzhanggit/StackGAN) ⭐ 1,860 \| 🐛 55 \| 🌐 Python \| 📅 2020-05-15           |                                                                  |
 | AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks   | 2018 CVPR            | [1711.10485](https://arxiv.org/abs/1711.10485)     | [AttnGAN](https://github.com/taoxugit/AttnGAN) ⭐ 1,363 \| 🐛 86 \| 🌐 Python \| 📅 2024-07-25                |                                                                  |
 | Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network             | 2018 CVPR            | [1802.09178](https://arxiv.org/pdf/1802.09178.pdf) | [HDGan](https://github.com/ypxie/HDGan) ⭐ 148 \| 🐛 1 \| 🌐 Python \| 📅 2018-11-01                          |                                                                  |
 | StoryGAN: A Sequential Conditional GAN for Story Visualization                                    | 2019 CVPR            | [1812.02784](https://arxiv.org/abs/1812.02784)     | [StoryGAN](https://github.com/yitong91/StoryGAN) ⭐ 234 \| 🐛 25 \| 🌐 Python \| 📅 2022-07-15                |                                                                  |
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
