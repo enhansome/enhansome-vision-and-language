@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,497 | 🐛 91 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,499 | 🐛 91 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -218,7 +218,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Learning to Learn Words from Visual Scenes                                                       | 2020 ECCV            | [2004.06165](https://arxiv.org/abs/2004.06165)                                                             | [Oscar](https://github.com/microsoft/Oscar) ⚠️ Archived                                                           | []()    |
 | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs               | 2021 AAAI            | [2006.16934](https://arxiv.org/abs/2006.16934)                                                             | [ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,736 \| 🐛 82 \| 🌐 Python \| 📅 2026-07-24                     | []()    |
 | VinVL: Revisiting Visual Representations in Vision-Language Models                               | 2021 CVPR            | [2101.00529](https://arxiv.org/abs/2101.00529)                                                             | [VinVL](https://github.com/pzzhang/VinVL) ⭐ 360 \| 🐛 34 \| 📅 2023-07-26                                         | []()    |
-| VirTex: Learning Visual Representations from Textual Annotations                                 | 2021 CVPR            | [2006.06666](https://arxiv.org/abs/2006.06666)                                                             | [virtex](https://github.com/kdexd/virtex) ⭐ 562 \| 🐛 8 \| 🌐 Python \| 📅 2025-08-22                             | []()    |
+| VirTex: Learning Visual Representations from Textual Annotations                                 | 2021 CVPR            | [2006.06666](https://arxiv.org/abs/2006.06666)                                                             | [virtex](https://github.com/kdexd/virtex) ⭐ 563 \| 🐛 8 \| 🌐 Python \| 📅 2025-08-22                             | []()    |
 | Learning Transferable Visual Models From Natural Language Supervision                            | 2021 arxiv           | [2103.00020](https://arxiv.org/abs/2103.00020)                                                             | []()                                                                                                              | []()    |
 | Pretrained Transformers As Universal Computation Engines                                         | 2021 arxiv           | [2103.05247](https://arxiv.org/abs/2103.05247)                                                             | [universal-computation](https://github.com/kzl/universal-computation) ⭐ 245 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-14 | []()    |
 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision        | 2021 arxiv           | [2102.05918](https://arxiv.org/abs/2102.05918)                                                             | []()                                                                                                              | []()    |
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
