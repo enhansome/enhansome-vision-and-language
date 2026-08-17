@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,499 | 🐛 91 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,502 | 🐛 91 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -189,7 +189,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 
 | Title                                                        | Conference / Journal | Paper                                          | Code                                                                                                                          | Remarks |
 | ------------------------------------------------------------ | -------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------- |
-| TSM: Temporal Shift Module for Efficient Video Understanding | 2019 ICCV            | [1811.08383](https://arxiv.org/abs/1811.08383) | [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) ⭐ 2,221 \| 🐛 100 \| 🌐 Python \| 📅 2024-07-11 |         |
+| TSM: Temporal Shift Module for Efficient Video Understanding | 2019 ICCV            | [1811.08383](https://arxiv.org/abs/1811.08383) | [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) ⭐ 2,222 \| 🐛 100 \| 🌐 Python \| 📅 2024-07-11 |         |
 | A Graph-Based Framework to Bridge Movies and Synopses        | 2019 ICCV            | [1910.11009](https://arxiv.org/abs/1910.11009) | []()                                                                                                                          | []()    |
 |                                                              |                      | []()                                           | []()                                                                                                                          | []()    |
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
