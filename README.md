@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,503 | 🐛 91 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,504 | 🐛 91 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -207,7 +207,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 
 | Title                                                                                            | Conference / Journal | Paper                                                                                                      | Code                                                                                                              | Remarks |
 | ------------------------------------------------------------------------------------------------ | -------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------- |
-| LXMERT: Learning Cross-Modality Encoder Representations from Transformers                        | 2019 EMNLP           | [1908.07490](https://arxiv.org/abs/1908.07490)                                                             | [lxmert](https://github.com/airsplay/lxmert) ⭐ 965 \| 🐛 54 \| 🌐 Python \| 📅 2022-10-22                         |         |
+| LXMERT: Learning Cross-Modality Encoder Representations from Transformers                        | 2019 EMNLP           | [1908.07490](https://arxiv.org/abs/1908.07490)                                                             | [lxmert](https://github.com/airsplay/lxmert) ⭐ 966 \| 🐛 54 \| 🌐 Python \| 📅 2022-10-22                         |         |
 | VideoBERT: A Joint Model for Video and Language Representation Learning                          | 2019 ICCV            | [1904.01766](https://arxiv.org/abs/1904.01766)                                                             | []()                                                                                                              | []()    |
 | ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks | 2019 NIPS            | [vilbert](https://github.com/jiasenlu/vilbert_beta) ⭐ 478 \| 🐛 44 \| 🌐 Jupyter Notebook \| 📅 2022-11-21 | []()                                                                                                              | []()    |
 | OmniNet: A unified architecture for multi-modal multi-task learning                              | 2019 arxiv           | [1907.07804](https://arxiv.org/abs/1907.07804)                                                             | [OmniNet](https://github.com/subho406/OmniNet) ⭐ 514 \| 🐛 5 \| 🌐 Python \| 📅 2020-10-31                        | []()    |
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
