@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,506 | 🐛 91 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,508 | 🐛 91 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -138,7 +138,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Learning to Compose Dynamic Tree Structures for Visual Contexts                          | 2019 CVPR            | [1812.01880](https://arxiv.org/abs/1812.01880)                                                              | [VCTree](https://github.com/KaihuaTang/VCTree-Scene-Graph-Generation) ⭐ 124 \| 🐛 6 \| 🌐 Python \| 📅 2026-01-06                                     | []()                                      |
 | Counterfactual Critic Multi-Agent Training for Scene Graph Generation                    | 2019 ICCV            | [1812.02347](https://arxiv.org/abs/1812.02347)                                                              | []()                                                                                                                                                  | []()                                      |
 | Scene Graph Prediction with Limited Labels                                               | 2019 ICCV            | [1904.11622](https://arxiv.org/abs/1904.11622)                                                              | [limited-label](https://github.com/vincentschen/limited-label-scene-graphs) ⭐ 54 \| 🐛 6 \| 🌐 Jupyter Notebook \| 📅 2023-10-03                      | []()                                      |
-| Unbiased Scene Graph Generation from Biased Training                                     | 2020 CVPR            | [2002.11949](https://arxiv.org/abs/2002.11949)                                                              | [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) ⭐ 1,194 \| 🐛 124 \| 🌐 Jupyter Notebook \| 📅 2026-01-06        | []()                                      |
+| Unbiased Scene Graph Generation from Biased Training                                     | 2020 CVPR            | [2002.11949](https://arxiv.org/abs/2002.11949)                                                              | [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) ⭐ 1,195 \| 🐛 124 \| 🌐 Jupyter Notebook \| 📅 2026-01-06        | []()                                      |
 | GPS-Net Graph Property Sensing Network for Scene Graph Generation                        | 2020 CVPR            | [2003.12962](https://arxiv.org/abs/2003.12962)                                                              | [GPS-Net](https://github.com/taksau/GPS-Net) ⭐ 66 \| 🐛 0 \| 🌐 Python \| 📅 2020-06-13                                                               | []()                                      |
 | Learning Visual Commonsense for Robust Scene Graph Generation                            | 2020 ECCV            | [2006.09623](https://arxiv.org/abs/2006.09623)                                                              | []()                                                                                                                                                  | []()                                      |
 | Sketching Image Gist Human-Mimetic Hierarchical Scene Graph Generation                   | 2020 ECCV            | [2007.08760](https://arxiv.org/abs/2007.08760)                                                              | [het-eccv20](https://github.com/Kenneth-Wong/het-eccv20) ⭐ 16 \| 🐛 1 \| 🌐 Jupyter Notebook \| 📅 2020-07-20                                         | []()                                      |
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
