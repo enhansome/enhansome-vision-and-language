@@ -1,7 +1,1559 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+          "description": "2017 IJCV 1602.07332 visual_genome_python_driver visualgenome",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43793466,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-09-21T20:39:56Z",
+            "owner": "ranjaykrishna",
+            "repo": "visual_genome_python_driver",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Recognition to Cognition: Visual Commonsense Reasoning",
+          "description": "2019 CVPR 1811.10830 r2c VCR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161720525,
+            "language": "Python",
+            "last_commit": "2021-05-06T19:24:28Z",
+            "owner": "rowanz",
+            "repo": "r2c",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning",
+          "description": "2020 NeurIPS 2010.00763 Bongard-LOGO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288606132,
+            "language": "Python",
+            "last_commit": "2022-04-20T07:51:45Z",
+            "owner": "NVlabs",
+            "repo": "Bongard-LOGO",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions",
+          "description": "2022 CVPR 2205.13803 Bongard-HOI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 471562840,
+            "language": "Python",
+            "last_commit": "2022-11-07T19:04:46Z",
+            "owner": "NVlabs",
+            "repo": "Bongard-HOI",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Show and Tell A Neural Image Caption Generator",
+          "description": "2015 CVPR 1411.4555 show_and_tell.tensorflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45990808,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-10-24T12:56:20Z",
+            "owner": "jazzsaxmafia",
+            "repo": "show_and_tell.tensorflow",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Show, Attend and Tell Neural Image Caption Generation with Visual Attention",
+          "description": "2015 ICML 1502.03044 show-attend-and-tell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67860365,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-07-28T19:46:50Z",
+            "owner": "yunjey",
+            "repo": "show-attend-and-tell",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Captions to Visual Concepts and Back",
+          "description": "2015 CVPR 1411.4952 visual-concepts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35438220,
+            "language": "Python",
+            "last_commit": "2018-02-27T16:21:35Z",
+            "owner": "s-gupta",
+            "repo": "visual-concepts",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Captioning with Semantic Attention",
+          "description": "2016 CVPR 1603.03925 semantic-attention",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71618304,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-10-22T05:14:27Z",
+            "owner": "chapternewscu",
+            "repo": "image-captioning-with-semantic-attention",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning",
+          "description": "2017 CVPR 1612.01887 AdaptiveAttention",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82971430,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-12-26T18:51:21Z",
+            "owner": "jiasenlu",
+            "repo": "AdaptiveAttention",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic compositional networks for visual captioning",
+          "description": "2017 CVPR 1611.08002 Semantic_Compositional_Nets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85527207,
+            "language": "Python",
+            "last_commit": "2018-03-26T02:02:34Z",
+            "owner": "zhegan27",
+            "repo": "Semantic_Compositional_Nets",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StyleNet: Generating Attractive Visual Captions with Styles",
+          "description": "2017 CVPR CVPR 2017 stylenet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109919650,
+            "language": "Python",
+            "last_commit": "2020-12-13T13:13:23Z",
+            "owner": "kacky24",
+            "repo": "stylenet",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training for Diversity in Image Paragraph Captioning",
+          "description": "2018 EMNLP ENNLP 2018 image-paragraph-captioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146346847,
+            "language": "Python",
+            "last_commit": "2019-09-12T11:14:40Z",
+            "owner": "lukemelas",
+            "repo": "image-paragraph-captioning",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Baby Talk",
+          "description": "2018 CVPR 1803.09845 NeuralBabyTalk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114430091,
+            "language": "Python",
+            "last_commit": "2019-03-27T20:55:35Z",
+            "owner": "jiasenlu",
+            "repo": "NeuralBabyTalk",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Image Captioning",
+          "description": "2019 CVPR 1811.10787 unsupervised_captioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174515947,
+            "language": "Python",
+            "last_commit": "2023-03-24T21:58:23Z",
+            "owner": "fengyang0317",
+            "repo": "unsupervised_captioning",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Context-aware visual policy network for fine-grained image captioning",
+          "description": "2019 TPAMI 1906.02365 CAVP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145085513,
+            "language": "Python",
+            "last_commit": "2019-07-27T13:00:31Z",
+            "owner": "daqingliu",
+            "repo": "CAVP",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-Encoding Scene Graphs for Image Captioning",
+          "description": "2019 CVPR 1812.02378 SGAE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178354225,
+            "language": "OpenEdge ABL",
+            "last_commit": "2022-02-26T01:09:36Z",
+            "owner": "yangxuntu",
+            "repo": "SGAE",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Image Captioning",
+          "description": "2019 CVPR 1811.10787 unsupervised_captioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174515947,
+            "language": "Python",
+            "last_commit": "2023-03-24T21:58:23Z",
+            "owner": "fengyang0317",
+            "repo": "unsupervised_captioning",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs",
+          "description": "2020 CVPR 2003.00387 asg2cap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247243896,
+            "language": "Python",
+            "last_commit": "2022-12-01T17:39:00Z",
+            "owner": "cshizhe",
+            "repo": "asg2cap",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comprehensive Image Captioning via Scene Graph Decomposition",
+          "description": "2020 ECCV 2007.11731 Sub-GC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279372066,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-20T16:17:22Z",
+            "owner": "YiwuZhong",
+            "repo": "Sub-GC",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Image Captioning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Word2Vec (vis-w2v) Learning Visually Grounded Word Embeddings Using Abstract Scenes",
+          "description": "2016 CVPR 1511.07067 VisualWord2Vec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36840933,
+            "language": "C",
+            "last_commit": "2019-03-01T20:19:50Z",
+            "owner": "satwikkottur",
+            "repo": "VisualWord2Vec",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Composing Text and Image for Image Retrieval - An Empirical Odyssey",
+          "description": "2019 CVPR 1812.07119 tirg",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 180859997,
+            "language": "Python",
+            "last_commit": "2021-04-05T04:03:08Z",
+            "owner": "google",
+            "repo": "tirg",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Relation Alignment for Calibrated Cross-modal Retrieval",
+          "description": "2021 ACL 2105.13868 IAIS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370334190,
+            "language": "Python",
+            "last_commit": "2023-05-16T12:01:27Z",
+            "owner": "lancopku",
+            "repo": "IAIS",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ImageCoDe: Image Retrieval from Contextual Descriptions",
+          "description": "2022 ACL 2203.15867 ImageCoDe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468592831,
+            "language": "Python",
+            "last_commit": "2024-03-01T04:29:55Z",
+            "owner": "McGill-NLP",
+            "repo": "imagecode",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniIR: Training and Benchmarking Universal Multimodal Information Retrievers",
+          "description": "2024 ECCV 2311.17136 UniIR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724435692,
+            "language": "Python",
+            "last_commit": "2024-10-01T22:52:11Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "UniIR",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval",
+          "description": "2024 ECCV 2407.12346 Q-Pert",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 859235747,
+            "language": "Python",
+            "last_commit": "2024-09-18T10:27:44Z",
+            "owner": "NEC-N-SOGI",
+            "repo": "query-perturbation",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Image Retrieval"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+          "description": "2017 IJCV 1602.07332 visual_genome_python_driver visualgenome",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43793466,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-09-21T20:39:56Z",
+            "owner": "ranjaykrishna",
+            "repo": "visual_genome_python_driver",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scene Graph Generation by Iterative Message Passing",
+          "description": "2017 CVPR 1701.02426 scene-graph-TF-release",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87370970,
+            "language": "Python",
+            "last_commit": "2019-03-27T09:37:39Z",
+            "owner": "danfeiX",
+            "repo": "scene-graph-TF-release",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scene Graph Generation from Objects, Phrases and Region Captions",
+          "description": "2017 ICCV 1707.09700 MSDN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98939792,
+            "language": "Python",
+            "last_commit": "2019-11-19T10:00:05Z",
+            "owner": "yikang-li",
+            "repo": "MSDN",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Motifs: Scene Graph Parsing with Global Context",
+          "description": "2018 CVPR 1711.06640 neural-motifs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124462110,
+            "language": "Python",
+            "last_commit": "2019-08-09T16:15:37Z",
+            "owner": "rowanz",
+            "repo": "neural-motifs",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Generation from Scene Graphs",
+          "description": "2018 CVPR 1804.01622 sg2im",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 139172533,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:13:10Z",
+            "owner": "google",
+            "repo": "sg2im",
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph R-CNN for Scene Graph Generation",
+          "description": "2018 ECCV 1808.00191 graph-rcnn.pytorch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140515088,
+            "language": "Python",
+            "last_commit": "2020-04-01T00:05:28Z",
+            "owner": "jwyang",
+            "repo": "graph-rcnn.pytorch",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specifying Object Attributes and Relations in Interactive Scene Generation",
+          "description": "2019 ICCV 1909.05379 scene_generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201781740,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:34:43Z",
+            "owner": "ashual",
+            "repo": "scene_generation",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Context and Visual Pattern of Relationship for Scene Graph Generation",
+          "description": "2019 CVPR sceneGraph_Mem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192264368,
+            "language": "Python",
+            "last_commit": "2019-06-17T04:27:14Z",
+            "owner": "Kenneth-Wong",
+            "repo": "sceneGraph_Mem",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphical Contrastive Losses for Scene Graph Parsing",
+          "description": "2019 CVPR 1903.02728 ContrastiveLosses4VRD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176369298,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-04-02T16:30:23Z",
+            "owner": "NVIDIA",
+            "repo": "ContrastiveLosses4VRD",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge-Embedded Routing Network for Scene Graph Generation",
+          "description": "2019 CVPR 1903.03326 KERN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177547898,
+            "language": "Python",
+            "last_commit": "2022-08-17T03:55:25Z",
+            "owner": "yuweihao",
+            "repo": "KERN",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Compose Dynamic Tree Structures for Visual Contexts",
+          "description": "2019 CVPR 1812.01880 VCTree",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175337911,
+            "language": "Python",
+            "last_commit": "2026-01-06T02:26:40Z",
+            "owner": "KaihuaTang",
+            "repo": "VCTree-Scene-Graph-Generation",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scene Graph Prediction with Limited Labels",
+          "description": "2019 ICCV 1904.11622 limited-label",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221166808,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-03T21:35:08Z",
+            "owner": "vincentschen",
+            "repo": "limited-label-scene-graphs",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unbiased Scene Graph Generation from Biased Training",
+          "description": "2020 CVPR 2002.11949 Scene-Graph-Benchmark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 241830209,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-06T02:25:00Z",
+            "owner": "KaihuaTang",
+            "repo": "Scene-Graph-Benchmark.pytorch",
+            "stars": 1195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPS-Net Graph Property Sensing Network for Scene Graph Generation",
+          "description": "2020 CVPR 2003.12962 GPS-Net",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247084404,
+            "language": "Python",
+            "last_commit": "2020-06-13T09:04:21Z",
+            "owner": "siml3",
+            "repo": "GPS-Net",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sketching Image Gist Human-Mimetic Hierarchical Scene Graph Generation",
+          "description": "2020 ECCV 2007.08760 het-eccv20",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279321885,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-07-20T00:58:39Z",
+            "owner": "Kenneth-Wong",
+            "repo": "het-eccv20",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Scene Graph"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generative Adversarial Text to Image Synthesis",
+          "description": "2016 ICML 1605.05396 icml2016",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60300108,
+            "language": "Lua",
+            "last_commit": "2018-09-05T16:45:56Z",
+            "owner": "reedscot",
+            "repo": "icml2016",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks",
+          "description": "2017 ICCV 1612.03242 StackGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77115049,
+            "language": "Python",
+            "last_commit": "2020-05-15T19:05:57Z",
+            "owner": "hanzhanggit",
+            "repo": "StackGAN",
+            "stars": 1860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks",
+          "description": "2018 CVPR 1711.10485 AttnGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122099710,
+            "language": "Python",
+            "last_commit": "2024-07-25T04:54:47Z",
+            "owner": "taoxugit",
+            "repo": "AttnGAN",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network",
+          "description": "2018 CVPR 1802.09178 HDGan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124448236,
+            "language": "Python",
+            "last_commit": "2018-11-01T18:16:50Z",
+            "owner": "ypxie",
+            "repo": "HDGan",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StoryGAN: A Sequential Conditional GAN for Story Visualization",
+          "description": "2019 CVPR 1812.02784 StoryGAN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173368275,
+            "language": "Python",
+            "last_commit": "2022-07-15T14:02:03Z",
+            "owner": "yitong91",
+            "repo": "StoryGAN",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction",
+          "description": "2019 ICCV 1811.09845 GeNeVA",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 185669638,
+            "language": "Python",
+            "last_commit": "2023-05-16T14:49:52Z",
+            "owner": "Maluuba",
+            "repo": "GeNeVA_datasets",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specifying Object Attributes and Relations in Interactive Scene Generation",
+          "description": "2019 ICCV 1909.05379 scene_generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201781740,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:34:43Z",
+            "owner": "ashual",
+            "repo": "scene_generation",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "text2image"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adversarial Inference for Multi-Sentence Video Description",
+          "description": "2019 CVPR 1812.05634 adv-inf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179781643,
+            "language": "Python",
+            "last_commit": "2019-07-17T16:54:55Z",
+            "owner": "jamespark3922",
+            "repo": "adv-inf",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamlined Dense Video Captioning",
+          "description": "2019 CVPR 1904.03870 DenseVideoCaptioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151852569,
+            "language": "Python",
+            "last_commit": "2019-07-08T03:33:52Z",
+            "owner": "JaywongWang",
+            "repo": "DenseVideoCaptioning",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "Video Captioning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Movieqa: Understanding stories in movies through question-answering",
+          "description": "2016 CVPR 1512.02902 MovieQA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63703051,
+            "language": "Python",
+            "last_commit": "2016-11-30T00:33:53Z",
+            "owner": "makarandtapaswi",
+            "repo": "MovieQA_CVPR2016",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TVQA: Localized, Compositional Video Question Answering",
+          "description": "2018 EMNLP 1809.01696 TVQA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145652886,
+            "language": "Python",
+            "last_commit": "2022-10-25T04:31:01Z",
+            "owner": "jayleicn",
+            "repo": "TVQA",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions",
+          "description": "2020 ECCV 2007.08751 ROLL-VideoQA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248110195,
+            "language": "Python",
+            "last_commit": "2020-09-29T01:56:34Z",
+            "owner": "noagarcia",
+            "repo": "ROLL-VideoQA",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Video Question Answering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TSM: Temporal Shift Module for Efficient Video Understanding",
+          "description": "2019 ICCV 1811.08383 temporal-shift-module",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178086202,
+            "language": "Python",
+            "last_commit": "2024-07-11T18:54:08Z",
+            "owner": "mit-han-lab",
+            "repo": "temporal-shift-module",
+            "stars": 2221
+          }
+        }
+      ],
+      "title": "Video Understanding"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation",
+          "description": "2023 NeurIPS fda_pdf fda_code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711112036,
+            "language": "Python",
+            "last_commit": "2024-01-08T10:10:38Z",
+            "owner": "hekj",
+            "repo": "FDA",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Vision and Language Navigation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LXMERT: Learning Cross-Modality Encoder Representations from Transformers",
+          "description": "2019 EMNLP 1908.07490 lxmert",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203417155,
+            "language": "Python",
+            "last_commit": "2022-10-22T00:05:56Z",
+            "owner": "airsplay",
+            "repo": "lxmert",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks",
+          "description": "2019 NIPS vilbert",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202817865,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-21T21:32:12Z",
+            "owner": "jiasenlu",
+            "repo": "vilbert_beta",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniNet: A unified architecture for multi-modal multi-task learning",
+          "description": "2019 arxiv 1907.07804 OmniNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197456962,
+            "language": "Python",
+            "last_commit": "2020-10-31T20:31:03Z",
+            "owner": "subho406",
+            "repo": "OmniNet",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training",
+          "description": "2020 AAAI 1908.06066 Unicoder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 247056591,
+            "language": "Python",
+            "last_commit": "2023-12-12T11:42:55Z",
+            "owner": "microsoft",
+            "repo": "Unicoder",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unified Vision-Language Pre-Training for Image Captioning and VQA",
+          "description": "2020 AAAI 1909.11059 VLP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210728402,
+            "language": "Python",
+            "last_commit": "2022-01-18T08:29:00Z",
+            "owner": "LuoweiZhou",
+            "repo": "VLP",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks",
+          "description": "2020 ECCV 1911.11237 Oscar",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 263991154,
+            "language": "Python",
+            "last_commit": "2023-08-28T01:34:59Z",
+            "owner": "microsoft",
+            "repo": "Oscar",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Learning of Visual Features by Contrasting Cluster Assignments",
+          "description": "2020 NIPS 2006.09882 swav",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 280260739,
+            "language": "Python",
+            "last_commit": "2023-04-13T16:40:34Z",
+            "owner": "facebookresearch",
+            "repo": "swav",
+            "stars": 2096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Learn Words from Visual Scenes",
+          "description": "2020 ECCV 2004.06165 Oscar",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 263991154,
+            "language": "Python",
+            "last_commit": "2023-08-28T01:34:59Z",
+            "owner": "microsoft",
+            "repo": "Oscar",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs",
+          "description": "2021 AAAI 2006.16934 ERNIE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173544440,
+            "language": "Python",
+            "last_commit": "2026-07-24T21:37:38Z",
+            "owner": "PaddlePaddle",
+            "repo": "ERNIE",
+            "stars": 7737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VinVL: Revisiting Visual Representations in Vision-Language Models",
+          "description": "2021 CVPR 2101.00529 VinVL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343056031,
+            "language": null,
+            "last_commit": "2023-07-26T04:00:01Z",
+            "owner": "pzzhang",
+            "repo": "VinVL",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirTex: Learning Visual Representations from Textual Annotations",
+          "description": "2021 CVPR 2006.06666 virtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208883499,
+            "language": "Python",
+            "last_commit": "2025-08-22T23:25:46Z",
+            "owner": "kdexd",
+            "repo": "virtex",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretrained Transformers As Universal Computation Engines",
+          "description": "2021 arxiv 2103.05247 universal-computation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345896058,
+            "language": "Python",
+            "last_commit": "2022-01-14T15:51:29Z",
+            "owner": "kzl",
+            "repo": "universal-computation",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "Vision-and-Language Pretraining"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Dialog",
+          "description": "2017 CVPR 1611.08669 visdial visualdialog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88461203,
+            "language": "Lua",
+            "last_commit": "2018-11-29T22:41:46Z",
+            "owner": "batra-mlp-lab",
+            "repo": "visdial",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation",
+          "description": "2023 2303.05983 ATVC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653072427,
+            "language": "Shell",
+            "last_commit": "2023-06-17T15:02:05Z",
+            "owner": "repo-atvc",
+            "repo": "Accountable-Textual-Visual-Chat",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Visual Dialog"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Modeling Relationships in Referential Expressions with Compositional Modular Networks",
+          "description": "2017 CVPR 1611.09978 cmn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87152957,
+            "language": "Python",
+            "last_commit": "2018-09-20T03:52:19Z",
+            "owner": "ronghanghu",
+            "repo": "cmn",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zero-Shot Grounding of Objects from Natural Language Queries",
+          "description": "2019 ICCV 1908.07129 zsgnet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196621546,
+            "language": "Python",
+            "last_commit": "2020-04-22T23:11:09Z",
+            "owner": "TheShadow29",
+            "repo": "zsgnet-pytorch",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaborative Transformers for Grounded Situation Recognition",
+          "description": "2022 CVPR 2203.16518 CoFormer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475897623,
+            "language": "Python",
+            "last_commit": "2023-04-09T08:53:40Z",
+            "owner": "jhcho99",
+            "repo": "CoFormer",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Visual Grounding"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hierarchical question-image co-attention for visual question answering",
+          "description": "2016 NIPS 1606.00061 HieCoAttenVQA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59795294,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-10-02T11:01:19Z",
+            "owner": "jiasenlu",
+            "repo": "HieCoAttenVQA",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding",
+          "description": "2016 EMNLP 1606.01847 vqa-mcb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62715394,
+            "language": "Python",
+            "last_commit": "2016-08-13T01:08:08Z",
+            "owner": "akirafukui",
+            "repo": "vqa-mcb",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stacked Attention Networks for Image Question Answering",
+          "description": "2016 CVPR 1511.02274 imageqa-san",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53383316,
+            "language": "Python",
+            "last_commit": "2017-01-07T16:10:14Z",
+            "owner": "zcyang",
+            "repo": "imageqa-san",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering",
+          "description": "2016 ECCV 1511.05234 AAAA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64081218,
+            "language": "C++",
+            "last_commit": "2020-11-04T19:42:19Z",
+            "owner": "VisionLearningGroup",
+            "repo": "Ask_Attend_and_Answer",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Memory Networks for Visual and Textual Question Answering",
+          "description": "2016 ICML 1603.01417 dmn-plus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135333534,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-06-08T14:17:53Z",
+            "owner": "vlgiitr",
+            "repo": "dmn-plus",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding",
+          "description": "2016 EMNLP 1606.01847 vqa-mcb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62715394,
+            "language": "Python",
+            "last_commit": "2016-08-13T01:08:08Z",
+            "owner": "akirafukui",
+            "repo": "vqa-mcb",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Residual Learning for Visual QA",
+          "description": "2016 NIPS 1606.01455 nips-mrn-vqa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75255724,
+            "language": "Lua",
+            "last_commit": "2016-12-27T09:55:11Z",
+            "owner": "jnhwkim",
+            "repo": "nips-mrn-vqa",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering",
+          "description": "2018 AAAI 1803.08896 PSLQA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 135753356,
+            "language": "Python",
+            "last_commit": "2019-01-24T04:31:29Z",
+            "owner": "adityaSomak",
+            "repo": "PSLQA",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tips and Tricks for Visual Question Answering Learnings from the 2017 Challenge",
+          "description": "2018 CVPR 1708.02711 vqa-winner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102872812,
+            "language": "Python",
+            "last_commit": "2019-02-08T00:04:45Z",
+            "owner": "markdtw",
+            "repo": "vqa-winner-cvprw-2017",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transfer Learning via Unsupervised Task Discovery for Visual Question Answering",
+          "description": "2019 CVPR 1810.02358 VQA-Transfer-ExternalData",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122662354,
+            "language": "Python",
+            "last_commit": "2019-04-08T04:52:47Z",
+            "owner": "HyeonwooNoh",
+            "repo": "VQA-Transfer-ExternalData",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+          "description": "2022 ICLR 2204.11167 RelViT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470390219,
+            "language": "Python",
+            "last_commit": "2022-09-10T16:01:52Z",
+            "owner": "NVlabs",
+            "repo": "RelViT",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation",
+          "description": "2022 arXiv 2208.01813 TAG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 524551515,
+            "language": "Python",
+            "last_commit": "2022-12-08T18:50:16Z",
+            "owner": "HenryJunW",
+            "repo": "TAG",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Visual Question Answering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "From Recognition to Cognition: Visual Commonsense Reasoning",
+          "description": "2019 CVPR 1811.10830 r2c VCR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161720525,
+            "language": "Python",
+            "last_commit": "2021-05-06T19:24:28Z",
+            "owner": "rowanz",
+            "repo": "r2c",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Semantic Reasoning for Image-Text Matching",
+          "description": "2019 ICCV 1909.02701 VSRN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202933011,
+            "language": "Python",
+            "last_commit": "2020-01-14T01:33:03Z",
+            "owner": "KunpengLi1994",
+            "repo": "VSRN",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning",
+          "description": "2020 NeurIPS 2010.00763 Bongard-LOGO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288606132,
+            "language": "Python",
+            "last_commit": "2022-04-20T07:51:45Z",
+            "owner": "NVlabs",
+            "repo": "Bongard-LOGO",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions",
+          "description": "2022 CVPR 2205.13803 Bongard-HOI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 471562840,
+            "language": "Python",
+            "last_commit": "2022-11-07T19:04:46Z",
+            "owner": "NVlabs",
+            "repo": "Bongard-HOI",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+          "description": "2022 ICLR 2204.11167 RelViT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470390219,
+            "language": "Python",
+            "last_commit": "2022-09-10T16:01:52Z",
+            "owner": "NVlabs",
+            "repo": "RelViT",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Visual Reasoning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Relationship Detection with Language Priors",
+          "description": "2016 ECCV 1608.00187 Visual-Relationship-Detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62528505,
+            "language": "Matlab",
+            "last_commit": "2020-11-16T23:10:33Z",
+            "owner": "Prof-Lu-Cewu",
+            "repo": "Visual-Relationship-Detection",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Translation Embedding Network for Visual Relation Detection",
+          "description": "2017 CVPR 1702.08319 drnet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87792242,
+            "language": "Python",
+            "last_commit": "2021-09-30T03:00:41Z",
+            "owner": "doubledaibo",
+            "repo": "drnet_cvpr2017",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection",
+          "description": "2017 CVPR 1703.03054 DeepVariationRL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123105603,
+            "language": "Python",
+            "last_commit": "2019-01-18T11:01:12Z",
+            "owner": "nexusapoorvacus",
+            "repo": "DeepVariationStructuredRL",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Detecting Visual Relationships with Deep Relational Networks",
+          "description": "2017 CVPR 1704.03114 drnet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 87792242,
+            "language": "Python",
+            "last_commit": "2021-09-30T03:00:41Z",
+            "owner": "doubledaibo",
+            "repo": "drnet_cvpr2017",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues",
+          "description": "2017 ICCV 1611.06641 pl-clc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74321287,
+            "language": "Matlab",
+            "last_commit": "2017-08-08T19:47:56Z",
+            "owner": "BryanPlummer",
+            "repo": "pl-clc",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Referring Relationships",
+          "description": "2018 CVPR 1803.10362 ReferringRelationships",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97680527,
+            "language": "Python",
+            "last_commit": "2022-11-22T02:05:59Z",
+            "owner": "StanfordVL",
+            "repo": "ReferringRelationships",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuffle-Then-Assemble: Learning Object-Agnostic Visual Relationship Features",
+          "description": "2018 ECCV 1808.00171 vrd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129213378,
+            "language": "Python",
+            "last_commit": "2018-10-10T01:25:19Z",
+            "owner": "yangxuntu",
+            "repo": "vrd",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Visual Relationship Detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Storytelling",
+          "description": "2016 NAACL 1604.03968 visual_genome_python_driver VIST",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43793466,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-09-21T20:39:56Z",
+            "owner": "ranjaykrishna",
+            "repo": "visual_genome_python_driver",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "No Metrics Are Perfect Adversarial Reward Learning for Visual Storytelling",
+          "description": "2018 ACL 1804.09160 AREL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130807083,
+            "language": "Python",
+            "last_commit": "2021-01-19T19:59:32Z",
+            "owner": "eric-xw",
+            "repo": "AREL",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "Visual Storytelling"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T18:50:39.066Z",
+    "last_updated": "2026-08-24T14:21:05.405Z",
     "original_repository": "sangminwoo/awesome-vision-and-language",
     "original_repository_id": 217469033,
     "original_repository_sha": "04b9f7406b88ccc6acc1962594679f70c6785379",
