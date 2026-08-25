@@ -96,7 +96,7 @@
             "last_commit": "2018-07-28T19:46:50Z",
             "owner": "yunjey",
             "repo": "show-attend-and-tell",
-            "stars": 906
+            "stars": 907
           }
         },
         {
@@ -705,7 +705,7 @@
         {
           "node_type": "item",
           "title": "Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction",
-          "description": "2019 ICCV 1811.09845 GeNeVA",
+          "description": "2019 ICCV 1811.09845  GeNeVA",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -999,7 +999,7 @@
             "last_commit": "2026-07-24T21:37:38Z",
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7737
+            "stars": 7738
           }
         },
         {
@@ -1553,7 +1553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:02:44.748Z",
+    "last_updated": "2026-08-25T06:17:34.347Z",
     "original_repository": "sangminwoo/awesome-vision-and-language",
     "original_repository_id": 217469033,
     "original_repository_sha": "04b9f7406b88ccc6acc1962594679f70c6785379",
