@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,516 | 🐛 92 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,518 | 🐛 92 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -113,7 +113,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Title                                                                                   | Conference / Journal | Paper                                          | Code                                                                                                                            | Remarks |
 | --------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | Towards Unconstrained End-to-End Text Spotting                                          | 2019 ICCV            | [1908.09231](https://arxiv.org/abs/1908.09231) | []()                                                                                                                            | []()    |
-| What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis | 2019 ICCV            | [1904.01906](https://arxiv.org/abs/1904.01906) | [clovaai](https://github.com/clovaai/deep-text-recognition-benchmark) ⭐ 3,943 \| 🐛 244 \| 🌐 Jupyter Notebook \| 📅 2024-03-04 | []()    |
+| What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis | 2019 ICCV            | [1904.01906](https://arxiv.org/abs/1904.01906) | [clovaai](https://github.com/clovaai/deep-text-recognition-benchmark) ⭐ 3,942 \| 🐛 244 \| 🌐 Jupyter Notebook \| 📅 2024-03-04 | []()    |
 |                                                                                         |                      | []()                                           | []()                                                                                                                            | []()    |
 
 ## Scene Graph
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
