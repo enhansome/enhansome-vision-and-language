@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,521 | 🐛 92 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -181,7 +181,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Title                                                                                                         | Conference / Journal | Paper                                          | Code                                                                                                      | Remarks |
 | ------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------- |
 | Movieqa: Understanding stories in movies through question-answering                                           | 2016 CVPR            | [1512.02902](https://arxiv.org/abs/1512.02902) | [MovieQA](https://github.com/makarandtapaswi/MovieQA_CVPR2016) ⭐ 78 \| 🐛 1 \| 🌐 Python \| 📅 2016-11-30 | []()    |
-| TVQA: Localized, Compositional Video Question Answering                                                       | 2018 EMNLP           | [1809.01696](https://arxiv.org/abs/1809.01696) | [TVQA](https://github.com/jayleicn/TVQA) ⭐ 181 \| 🐛 4 \| 🌐 Python \| 📅 2022-10-25                      |         |
+| TVQA: Localized, Compositional Video Question Answering                                                       | 2018 EMNLP           | [1809.01696](https://arxiv.org/abs/1809.01696) | [TVQA](https://github.com/jayleicn/TVQA) ⭐ 182 \| 🐛 4 \| 🌐 Python \| 📅 2022-10-25                      |         |
 | Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions                                 | 2020 ECCV            | [2007.08751](https://arxiv.org/abs/2007.08751) | [ROLL-VideoQA](https://github.com/noagarcia/ROLL-VideoQA) ⭐ 21 \| 🐛 1 \| 🌐 Python \| 📅 2020-09-29      | []()    |
 | iPerceive: Applying Common-Sense Reasoning to Multi-Modal Dense Video Captioning and Video Question Answering | 2021 WACV            | [2011.07735](https://arxiv.org/abs/2011.07735) | [iPerceive](https://github.com/amanchadha/iPerceive)                                                      | []()    |
 
@@ -218,7 +218,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Learning to Learn Words from Visual Scenes                                                       | 2020 ECCV            | [2004.06165](https://arxiv.org/abs/2004.06165)                                                             | [Oscar](https://github.com/microsoft/Oscar) ⚠️ Archived                                                           | []()    |
 | ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs               | 2021 AAAI            | [2006.16934](https://arxiv.org/abs/2006.16934)                                                             | [ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,737 \| 🐛 82 \| 🌐 Python \| 📅 2026-07-24                     | []()    |
 | VinVL: Revisiting Visual Representations in Vision-Language Models                               | 2021 CVPR            | [2101.00529](https://arxiv.org/abs/2101.00529)                                                             | [VinVL](https://github.com/pzzhang/VinVL) ⭐ 360 \| 🐛 34 \| 📅 2023-07-26                                         | []()    |
-| VirTex: Learning Visual Representations from Textual Annotations                                 | 2021 CVPR            | [2006.06666](https://arxiv.org/abs/2006.06666)                                                             | [virtex](https://github.com/kdexd/virtex) ⭐ 562 \| 🐛 8 \| 🌐 Python \| 📅 2025-08-22                             | []()    |
+| VirTex: Learning Visual Representations from Textual Annotations                                 | 2021 CVPR            | [2006.06666](https://arxiv.org/abs/2006.06666)                                                             | [virtex](https://github.com/kdexd/virtex) ⭐ 563 \| 🐛 8 \| 🌐 Python \| 📅 2025-08-22                             | []()    |
 | Learning Transferable Visual Models From Natural Language Supervision                            | 2021 arxiv           | [2103.00020](https://arxiv.org/abs/2103.00020)                                                             | []()                                                                                                              | []()    |
 | Pretrained Transformers As Universal Computation Engines                                         | 2021 arxiv           | [2103.05247](https://arxiv.org/abs/2103.05247)                                                             | [universal-computation](https://github.com/kzl/universal-computation) ⭐ 245 \| 🐛 5 \| 🌐 Python \| 📅 2022-01-14 | []()    |
 | Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision        | 2021 arxiv           | [2102.05918](https://arxiv.org/abs/2102.05918)                                                             | []()                                                                                                              | []()    |
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
