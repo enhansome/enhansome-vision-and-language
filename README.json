@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python wrapper for the Visual Genome API",
+            "homepage": null,
             "id": 43793466,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-09-21T20:39:56Z",
+            "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -26,12 +31,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recognition to Cognition Networks (code for the model in \"From Recognition to Cognition: Visual Commonsense Reasoning\", CVPR 2019)",
+            "homepage": "https://visualcommonsense.com",
             "id": 161720525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-06T19:24:28Z",
+            "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "commonsense",
+              "reasoning",
+              "vcr",
+              "vision",
+              "visual",
+              "visual-commonsense-reasoning"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -42,12 +59,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bongard-LOGO is a Python code repository with the purpose of generating synthetic Bongard problems on a large scale with little human intervention.",
+            "homepage": null,
             "id": 288606132,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-20T07:51:45Z",
+            "open_issues": 3,
             "owner": "NVlabs",
             "repo": "Bongard-LOGO",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -58,12 +80,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022 (oral)] Bongard-HOI for benchmarking few-shot visual reasoning",
+            "homepage": null,
             "id": 471562840,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-07T19:04:46Z",
+            "open_issues": 1,
             "owner": "NVlabs",
             "repo": "Bongard-HOI",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "cvpr2022",
+              "few-shot-learning",
+              "pytorch",
+              "visual-reasoning"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -80,12 +112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 45990808,
             "language": "Jupyter Notebook",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-10-24T12:56:20Z",
+            "open_issues": 24,
             "owner": "jazzsaxmafia",
             "repo": "show_and_tell.tensorflow",
-            "stars": 289
+            "stars": 289,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -96,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Implementation of \"Show, Attend and Tell\" ",
+            "homepage": null,
             "id": 67860365,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2018-07-28T19:46:50Z",
+            "open_issues": 57,
             "owner": "yunjey",
             "repo": "show-attend-and-tell",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "attention-mechanism",
+              "image-captioning",
+              "mscoco-image-dataset",
+              "show-attend-and-tell",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -112,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for detecting visual concepts in images.",
+            "homepage": "http://www.cs.berkeley.edu/~sgupta/captions/index.html",
             "id": 35438220,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-02-27T16:21:35Z",
+            "open_issues": 10,
             "owner": "s-gupta",
             "repo": "visual-concepts",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -128,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 71618304,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2016-10-22T05:14:27Z",
+            "open_issues": 2,
             "owner": "chapternewscu",
             "repo": "image-captioning-with-semantic-attention",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -144,12 +202,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of \"Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning\"",
+            "homepage": "https://arxiv.org/abs/1612.01887",
             "id": 82971430,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-26T18:51:21Z",
+            "open_issues": 19,
             "owner": "jiasenlu",
             "repo": "AdaptiveAttention",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "attention-mechanism",
+              "image-captioning",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -160,12 +227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Theano code for the CVPR 2017 paper \"Semantic Compositional Networks for Visual Captioning\"",
+            "homepage": null,
             "id": 85527207,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-03-26T02:02:34Z",
+            "open_issues": 0,
             "owner": "zhegan27",
             "repo": "Semantic_Compositional_Nets",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -176,12 +248,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pytorch implemention of \"StyleNet: Generating Attractive Visual Captions with Styles\"",
+            "homepage": null,
             "id": 109919650,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-13T13:13:23Z",
+            "open_issues": 3,
             "owner": "kacky24",
             "repo": "stylenet",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "caption",
+              "cnn",
+              "dlhacks",
+              "image-captioning",
+              "lstm",
+              "microsoft",
+              "pytorch",
+              "pytorch-implemention",
+              "stylenet"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -192,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2018] Training for Diversity in Image Paragraph Captioning",
+            "homepage": null,
             "id": 146346847,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-09-12T11:14:40Z",
+            "open_issues": 13,
             "owner": "lukemelas",
             "repo": "image-paragraph-captioning",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -208,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch code of for our CVPR 2018 paper \"Neural Baby Talk\"",
+            "homepage": "https://arxiv.org/abs/1803.09845",
             "id": 114430091,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-27T20:55:35Z",
+            "open_issues": 31,
             "owner": "jiasenlu",
             "repo": "NeuralBabyTalk",
-            "stars": 525
+            "stars": 525,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -224,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Unsupervised Image Captioning",
+            "homepage": null,
             "id": 174515947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T21:58:23Z",
+            "open_issues": 11,
             "owner": "fengyang0317",
             "repo": "unsupervised_captioning",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -240,12 +342,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for Context-Aware Visual Policy Network for Sequence-Level Image Captioning (MM 2018) and Context-Aware Visual Policy Network for Fine-Grained Image Captioning (TPAMI 2019)",
+            "homepage": null,
             "id": 145085513,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-27T13:00:31Z",
+            "open_issues": 2,
             "owner": "daqingliu",
             "repo": "CAVP",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "image-captioning",
+              "policy-network"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -256,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 178354225,
             "language": "OpenEdge ABL",
+            "license": null,
             "last_commit": "2022-02-26T01:09:36Z",
+            "open_issues": 37,
             "owner": "yangxuntu",
             "repo": "SGAE",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -272,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Unsupervised Image Captioning",
+            "homepage": null,
             "id": 174515947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T21:58:23Z",
+            "open_issues": 11,
             "owner": "fengyang0317",
             "repo": "unsupervised_captioning",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -288,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code accompanying the paper \"Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs\" (Chen et al., CVPR 2020, Oral).",
+            "homepage": null,
             "id": 247243896,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-01T17:39:00Z",
+            "open_issues": 19,
             "owner": "cshizhe",
             "repo": "asg2cap",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -304,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2020] Official code for \"Comprehensive Image Captioning via Scene Graph Decomposition\"",
+            "homepage": null,
             "id": 279372066,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-20T16:17:22Z",
+            "open_issues": 2,
             "owner": "YiwuZhong",
             "repo": "Sub-GC",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -326,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning visually grounded word embeddings using Abstract scenes",
+            "homepage": "http://satwikkottur.github.io/VisualWord2Vec/",
             "id": 36840933,
             "language": "C",
+            "license": null,
             "last_commit": "2019-03-01T20:19:50Z",
+            "open_issues": 0,
             "owner": "satwikkottur",
             "repo": "VisualWord2Vec",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -342,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "deep learning, image retrieval, vision and language",
+            "homepage": null,
             "id": 180859997,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-05T04:03:08Z",
+            "open_issues": 14,
             "owner": "google",
             "repo": "tirg",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -358,12 +498,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2021] Learning Relation Alignment for Calibrated Cross-modal Retrieval",
+            "homepage": "https://arxiv.org/abs/2105.13868",
             "id": 370334190,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-16T12:01:27Z",
+            "open_issues": 1,
             "owner": "lancopku",
             "repo": "IAIS",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "multimodal",
+              "retrieval",
+              "vision-and-language"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -374,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for ImageCoDe, a contextual vison-and-language benchmark",
+            "homepage": "https://mcgill-nlp.github.io/imagecode/",
             "id": 468592831,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-01T04:29:55Z",
+            "open_issues": 0,
             "owner": "McGill-NLP",
             "repo": "imagecode",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -390,12 +544,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for paper \"UniIR: Training and Benchmarking Universal Multimodal Information Retrievers\" (ECCV 2024)",
+            "homepage": "https://tiger-ai-lab.github.io/UniIR/",
             "id": 724435692,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-01T22:52:11Z",
+            "open_issues": 17,
             "owner": "TIGER-AI-Lab",
             "repo": "UniIR",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "language-model",
+              "retrieval"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -406,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 859235747,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-18T10:27:44Z",
+            "open_issues": 0,
             "owner": "NEC-N-SOGI",
             "repo": "query-perturbation",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -428,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python wrapper for the Visual Genome API",
+            "homepage": null,
             "id": 43793466,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-09-21T20:39:56Z",
+            "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -444,12 +616,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Scene Graph Generation by Iterative Message Passing\" code repository",
+            "homepage": "http://cs.stanford.edu/~danfei/scene-graph/",
             "id": 87370970,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-27T09:37:39Z",
+            "open_issues": 25,
             "owner": "danfeiX",
             "repo": "scene-graph-TF-release",
-            "stars": 437
+            "stars": 437,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -460,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is our PyTorch implementation of Multi-level Scene Description Network (MSDN) proposed in our ICCV 2017 paper.",
+            "homepage": "http://cvboy.com/publication/iccv2017_msdn/",
             "id": 98939792,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-19T10:00:05Z",
+            "open_issues": 4,
             "owner": "yikang-li",
             "repo": "MSDN",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -476,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Neural Motifs: Scene Graph Parsing with Global Context (CVPR 2018)",
+            "homepage": "https://rowanzellers.com/neuralmotifs",
             "id": 124462110,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-08-09T16:15:37Z",
+            "open_issues": 41,
             "owner": "rowanz",
             "repo": "neural-motifs",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "pytorch",
+              "scene-graph",
+              "vision",
+              "visual-genome"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -492,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for \"Image Generation from Scene Graphs\", Johnson et al, CVPR 2018",
+            "homepage": null,
             "id": 139172533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-25T10:13:10Z",
+            "open_issues": 14,
             "owner": "google",
             "repo": "sg2im",
-            "stars": 1325
+            "stars": 1325,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -508,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2018] Official code for \"Graph R-CNN for Scene Graph Generation\"",
+            "homepage": null,
             "id": 140515088,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-01T00:05:28Z",
+            "open_issues": 44,
             "owner": "jwyang",
             "repo": "graph-rcnn.pytorch",
-            "stars": 748
+            "stars": 748,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -524,12 +726,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of the paper: Specifying Object Attributes and Relations in Interactive Scene Generation",
+            "homepage": null,
             "id": 201781740,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T21:34:43Z",
+            "open_issues": 13,
             "owner": "ashual",
             "repo": "scene_generation",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "iccv2019",
+              "image-generation",
+              "machine-learning",
+              "ms-coco",
+              "pytorch",
+              "scene-graph"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -540,12 +756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for CVPR 2019",
+            "homepage": null,
             "id": 192264368,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-06-17T04:27:14Z",
+            "open_issues": 0,
             "owner": "Kenneth-Wong",
             "repo": "sceneGraph_Mem",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -556,12 +777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for the CVPR2019 paper \"Graphical Contrastive Losses for Scene Graph Generation\"",
+            "homepage": null,
             "id": 176369298,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-02T16:30:23Z",
+            "open_issues": 36,
             "owner": "NVIDIA",
             "repo": "ContrastiveLosses4VRD",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -572,12 +798,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Knowledge-Embedded Routing Network for Scene Graph Generation (CVPR 2019)",
+            "homepage": null,
             "id": 177547898,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-17T03:55:25Z",
+            "open_issues": 7,
             "owner": "yuweihao",
             "repo": "KERN",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "computer-vision",
+              "graph-neural-network",
+              "pytorch",
+              "scene-graph",
+              "scene-graph-generation"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -588,12 +825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Scene Graph Generation part of  CVPR 2019 oral paper: \"Learning to Compose Dynamic Tree Structures for Visual Contexts\"",
+            "homepage": null,
             "id": 175337911,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-06T02:26:40Z",
+            "open_issues": 6,
             "owner": "KaihuaTang",
             "repo": "VCTree-Scene-Graph-Generation",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -604,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scene Graph Prediction with Limited Labels",
+            "homepage": null,
             "id": 221166808,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-10-03T21:35:08Z",
+            "open_issues": 6,
             "owner": "vincentschen",
             "repo": "limited-label-scene-graphs",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -620,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new codebase for popular Scene Graph Generation methods (2020). Visualization & Scene Graph Extraction on custom images/datasets are provided. It's also a PyTorch implementation of paper “Unbiased Scene Graph Generation from Biased Training CVPR 2020”",
+            "homepage": null,
             "id": 241830209,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-01-06T02:25:00Z",
+            "open_issues": 124,
             "owner": "KaihuaTang",
             "repo": "Scene-Graph-Benchmark.pytorch",
-            "stars": 1195
+            "stars": 1195,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -636,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 247084404,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-13T09:04:21Z",
+            "open_issues": 0,
             "owner": "siml3",
             "repo": "GPS-Net",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -652,12 +909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for ECCV paper: \"Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation\"",
+            "homepage": null,
             "id": 279321885,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-07-20T00:58:39Z",
+            "open_issues": 1,
             "owner": "Kenneth-Wong",
             "repo": "het-eccv20",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -674,12 +936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Adversarial Text-to-Image Synthesis",
+            "homepage": "http://arxiv.org/abs/1605.05396",
             "id": 60300108,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-05T16:45:56Z",
+            "open_issues": 31,
             "owner": "reedscot",
             "repo": "icml2016",
-            "stars": 911
+            "stars": 911,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -690,12 +957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 77115049,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-05-15T19:05:57Z",
+            "open_issues": 55,
             "owner": "hanzhanggit",
             "repo": "StackGAN",
-            "stars": 1860
+            "stars": 1860,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -706,12 +978,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 122099710,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-25T04:54:47Z",
+            "open_issues": 86,
             "owner": "taoxugit",
             "repo": "AttnGAN",
-            "stars": 1363
+            "stars": 1363,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -722,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of HDGan",
+            "homepage": null,
             "id": 124448236,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-11-01T18:16:50Z",
+            "open_issues": 1,
             "owner": "ypxie",
             "repo": "HDGan",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -738,12 +1020,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StoryGAN: A Sequential Conditional GAN for Story Visualization",
+            "homepage": null,
             "id": 173368275,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-15T14:02:03Z",
+            "open_issues": 25,
             "owner": "yitong91",
             "repo": "StoryGAN",
-            "stars": 234
+            "stars": 234,
+            "topics": [
+              "gan",
+              "image-generation"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -754,12 +1044,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scripts to generate the CoDraw and i-CLEVR datasets used for the GeNeVA task proposed in our ICCV 2019 paper \"Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction\"",
+            "homepage": "https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/",
             "id": 185669638,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-16T14:49:52Z",
+            "open_issues": 1,
             "owner": "Maluuba",
             "repo": "GeNeVA_datasets",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "chatpainter",
+              "codraw",
+              "computer-vision",
+              "gan",
+              "generative-adversarial-networks",
+              "generative-neural-visual-artist",
+              "geneva",
+              "geneva-datasets",
+              "geneva-gan",
+              "i-clevr",
+              "iccv",
+              "iccv-2019",
+              "iccv2019",
+              "interactive-image-generation",
+              "keep-drawing-it",
+              "recurrent-gan",
+              "tell-draw-repeat"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -770,12 +1083,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of the paper: Specifying Object Attributes and Relations in Interactive Scene Generation",
+            "homepage": null,
             "id": 201781740,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T21:34:43Z",
+            "open_issues": 13,
             "owner": "ashual",
             "repo": "scene_generation",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "iccv2019",
+              "image-generation",
+              "machine-learning",
+              "ms-coco",
+              "pytorch",
+              "scene-graph"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -792,12 +1119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adversarial Inference for Multi-Sentence Video Descriptions (CVPR 2019)",
+            "homepage": null,
             "id": 179781643,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-17T16:54:55Z",
+            "open_issues": 5,
             "owner": "jamespark3922",
             "repo": "adv-inf",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -808,12 +1140,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Tensorflow Implementation of the paper \"Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning\" in CVPR 2018, with code, model and prediction results.",
+            "homepage": null,
             "id": 151852569,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-08T03:33:52Z",
+            "open_issues": 3,
             "owner": "JaywongWang",
             "repo": "DenseVideoCaptioning",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "dense-video-captioning"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -830,12 +1169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contains approaches introduced in the MovieQA benchmark dataset paper",
+            "homepage": null,
             "id": 63703051,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-11-30T00:33:53Z",
+            "open_issues": 1,
             "owner": "makarandtapaswi",
             "repo": "MovieQA_CVPR2016",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -846,12 +1190,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2018] PyTorch code for TVQA: Localized, Compositional Video Question Answering",
+            "homepage": "http://tvqa.cs.unc.edu/",
             "id": 145652886,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-25T04:31:01Z",
+            "open_issues": 4,
             "owner": "jayleicn",
             "repo": "TVQA",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "dataset",
+              "pytorch",
+              "tvqa",
+              "videoqa"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -862,12 +1216,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for ROLL, a knowledge-based video story question answering model.",
+            "homepage": null,
             "id": 248110195,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-09-29T01:56:34Z",
+            "open_issues": 1,
             "owner": "noagarcia",
             "repo": "ROLL-VideoQA",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "knowledge-based-reasoning",
+              "video-question-answering",
+              "video-understanding",
+              "visual-question-answering"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -884,12 +1248,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding",
+            "homepage": "https://arxiv.org/abs/1811.08383",
             "id": 178086202,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-11T18:54:08Z",
+            "open_issues": 100,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
-            "stars": 2221
+            "stars": 2221,
+            "topics": [
+              "acceleration",
+              "efficient-model",
+              "low-latency",
+              "nvidia-jetson-nano",
+              "temporal-modeling",
+              "tsm",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -906,12 +1283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of Frequency-enhanced Data Augmentation for Vision-and-Language Navigation (NeurIPS2023)",
+            "homepage": null,
             "id": 711112036,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-08T10:10:38Z",
+            "open_issues": 3,
             "owner": "hekj",
             "repo": "FDA",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -928,12 +1310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for EMNLP 2019 paper \"LXMERT: Learning Cross-Modality Encoder Representations from Transformers\".",
+            "homepage": null,
             "id": 203417155,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-22T00:05:56Z",
+            "open_issues": 54,
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 965
+            "stars": 965,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -944,12 +1331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 202817865,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-11-21T21:32:12Z",
+            "open_issues": 44,
             "owner": "jiasenlu",
             "repo": "vilbert_beta",
-            "stars": 478
+            "stars": 478,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -960,12 +1352,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of \"OmniNet: A unified architecture for multi-modal multi-task learning\" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain ",
+            "homepage": "https://arxiv.org/abs/1907.07804",
             "id": 197456962,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-31T20:31:03Z",
+            "open_issues": 5,
             "owner": "subho406",
             "repo": "OmniNet",
-            "stars": 514
+            "stars": 514,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "image-captioning",
+              "machine-learning",
+              "multimodal-learning",
+              "multitask-learning",
+              "neural-network",
+              "nlp",
+              "transformer",
+              "video-recognition"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -976,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unicoder model for understanding and generation.",
+            "homepage": null,
             "id": 247056591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-12T11:42:55Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "Unicoder",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -992,12 +1405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vision-Language Pre-training for Image Captioning and Question Answering",
+            "homepage": null,
             "id": 210728402,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-18T08:29:00Z",
+            "open_issues": 15,
             "owner": "LuoweiZhou",
             "repo": "VLP",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1008,12 +1426,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Oscar and VinVL",
+            "homepage": null,
             "id": 263991154,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-28T01:34:59Z",
+            "open_issues": 142,
             "owner": "microsoft",
             "repo": "Oscar",
-            "stars": 1053
+            "stars": 1053,
+            "topics": [
+              "image-captioning",
+              "image-text-search",
+              "oscar",
+              "pre-training",
+              "vinvl",
+              "vision-and-language",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1024,12 +1455,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch implementation of SwAV https//arxiv.org/abs/2006.09882",
+            "homepage": null,
             "id": 280260739,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-13T16:40:34Z",
+            "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2096
+            "stars": 2096,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1040,12 +1476,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Oscar and VinVL",
+            "homepage": null,
             "id": 263991154,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-28T01:34:59Z",
+            "open_issues": 142,
             "owner": "microsoft",
             "repo": "Oscar",
-            "stars": 1053
+            "stars": 1053,
+            "topics": [
+              "image-captioning",
+              "image-text-search",
+              "oscar",
+              "pre-training",
+              "vinvl",
+              "vision-and-language",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1056,12 +1505,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.",
+            "homepage": "https://ernie.baidu.com",
             "id": 173544440,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T21:37:38Z",
+            "open_issues": 82,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7737
+            "stars": 7737,
+            "topics": [
+              "ernie",
+              "ernie-45",
+              "ernie-45-vl",
+              "erniekit",
+              "llm",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1072,12 +1533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "project page for VinVL",
+            "homepage": null,
             "id": 343056031,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-26T04:00:01Z",
+            "open_issues": 34,
             "owner": "pzzhang",
             "repo": "VinVL",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1088,12 +1554,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] VirTex: Learning Visual Representations from Textual Annotations",
+            "homepage": "http://kdexd.xyz/virtex",
             "id": 208883499,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-22T23:25:46Z",
+            "open_issues": 8,
             "owner": "kdexd",
             "repo": "virtex",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "coco-dataset",
+              "cvpr2021",
+              "image-captioning",
+              "model-zoo",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1104,12 +1581,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codebase for Pretrained Transformers as Universal Computation Engines.",
+            "homepage": "https://arxiv.org/abs/2103.05247",
             "id": 345896058,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-14T15:51:29Z",
+            "open_issues": 5,
             "owner": "kzl",
             "repo": "universal-computation",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1126,12 +1608,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2017] Torch code for Visual Dialog",
+            "homepage": "https://arxiv.org/abs/1611.08669",
             "id": 88461203,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-29T22:41:46Z",
+            "open_issues": 2,
             "owner": "batra-mlp-lab",
             "repo": "visdial",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "natural-language-processing",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1142,12 +1634,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation.",
+            "homepage": null,
             "id": 653072427,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-06-17T15:02:05Z",
+            "open_issues": 0,
             "owner": "repo-atvc",
             "repo": "Accountable-Textual-Visual-Chat",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1164,12 +1661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for Hu et al. Modeling Relationships in Referential Expressions with Compositional Modular Networks. in CVPR, 2017",
+            "homepage": "http://ronghanghu.com/cmn/",
             "id": 87152957,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-20T03:52:19Z",
+            "open_issues": 9,
             "owner": "ronghanghu",
             "repo": "cmn",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1180,12 +1682,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of ICCV19 oral paper Zero-Shot grounding of Objects from Natural Language Queries (https://arxiv.org/abs/1908.07129)",
+            "homepage": null,
             "id": 196621546,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-22T23:11:09Z",
+            "open_issues": 4,
             "owner": "TheShadow29",
             "repo": "zsgnet-pytorch",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "grounding",
+              "nlp",
+              "objects",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1196,12 +1708,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'22] Official PyTorch Implementation of \"Collaborative Transformers for Grounded Situation Recognition\"",
+            "homepage": "https://coformer.github.io/",
             "id": 475897623,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-09T08:53:40Z",
+            "open_issues": 0,
             "owner": "jhcho99",
             "repo": "CoFormer",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "cvpr",
+              "cvpr2022",
+              "deep-learning",
+              "grounded-situation-recognition",
+              "pytorch",
+              "scene-understanding",
+              "tranformer",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1218,12 +1744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 59795294,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-10-02T11:01:19Z",
+            "open_issues": 18,
             "owner": "jiasenlu",
             "repo": "HieCoAttenVQA",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1234,12 +1765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 62715394,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-08-13T01:08:08Z",
+            "open_issues": 10,
             "owner": "akirafukui",
             "repo": "vqa-mcb",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1250,12 +1786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for Stacked attention networks for image question answering",
+            "homepage": null,
             "id": 53383316,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-01-07T16:10:14Z",
+            "open_issues": 11,
             "owner": "zcyang",
             "repo": "imageqa-san",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1266,12 +1807,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ask, Attend and Answer: Exploring Question-Guided Spatial Attention for Visual Question Answering",
+            "homepage": null,
             "id": 64081218,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-11-04T19:42:19Z",
+            "open_issues": 3,
             "owner": "VisionLearningGroup",
             "repo": "Ask_Attend_and_Answer",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1282,12 +1828,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pytorch tutorial for implementation of Dynamic memory Network Plus ",
+            "homepage": null,
             "id": 135333534,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-06-08T14:17:53Z",
+            "open_issues": 0,
             "owner": "vlgiitr",
             "repo": "dmn-plus",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "deep-learning",
+              "dynamic-memory-network",
+              "memory-network",
+              "nlp",
+              "pytorch-implmention"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1298,12 +1855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 62715394,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-08-13T01:08:08Z",
+            "open_issues": 10,
             "owner": "akirafukui",
             "repo": "vqa-mcb",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1314,12 +1876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multimodal Residual Learning for Visual QA (NIPS 2016)",
+            "homepage": null,
             "id": 75255724,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2016-12-27T09:55:11Z",
+            "open_issues": 1,
             "owner": "jnhwkim",
             "repo": "nips-mrn-vqa",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1330,12 +1897,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of Probabilistic Soft Logic Engine using Python/Gurobi",
+            "homepage": null,
             "id": 135753356,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-24T04:31:29Z",
+            "open_issues": 1,
             "owner": "adityaSomak",
             "repo": "PSLQA",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "conceptnet",
+              "gurobi",
+              "psl-engine",
+              "reasoning",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1346,12 +1924,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of winner from VQA Chllange Workshop in CVPR'17",
+            "homepage": null,
             "id": 102872812,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-08T00:04:45Z",
+            "open_issues": 4,
             "owner": "markdtw",
             "repo": "vqa-winner-cvprw-2017",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "pytorch",
+              "visual-question-answering"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1362,12 +1948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer Learning via Unsupervised Task Discovery for Visual Question Answering",
+            "homepage": null,
             "id": 122662354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-08T04:52:47Z",
+            "open_issues": 0,
             "owner": "HyeonwooNoh",
             "repo": "VQA-Transfer-ExternalData",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1378,12 +1969,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2022] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+            "homepage": null,
             "id": 470390219,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-10T16:01:52Z",
+            "open_issues": 3,
             "owner": "NVlabs",
             "repo": "RelViT",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "hico-det",
+              "iclr2022",
+              "pytorch",
+              "visual-reasoning",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1394,12 +1996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 524551515,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T18:50:16Z",
+            "open_issues": 3,
             "owner": "HenryJunW",
             "repo": "TAG",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1416,12 +2023,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recognition to Cognition Networks (code for the model in \"From Recognition to Cognition: Visual Commonsense Reasoning\", CVPR 2019)",
+            "homepage": "https://visualcommonsense.com",
             "id": 161720525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-06T19:24:28Z",
+            "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "commonsense",
+              "reasoning",
+              "vcr",
+              "vision",
+              "visual",
+              "visual-commonsense-reasoning"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1432,12 +2051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for ICCV'19 paper \"Visual Semantic Reasoning for Image-Text Matching\"",
+            "homepage": null,
             "id": 202933011,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-01-14T01:33:03Z",
+            "open_issues": 5,
             "owner": "KunpengLi1994",
             "repo": "VSRN",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1448,12 +2072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bongard-LOGO is a Python code repository with the purpose of generating synthetic Bongard problems on a large scale with little human intervention.",
+            "homepage": null,
             "id": 288606132,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-20T07:51:45Z",
+            "open_issues": 3,
             "owner": "NVlabs",
             "repo": "Bongard-LOGO",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1464,12 +2093,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022 (oral)] Bongard-HOI for benchmarking few-shot visual reasoning",
+            "homepage": null,
             "id": 471562840,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-07T19:04:46Z",
+            "open_issues": 1,
             "owner": "NVlabs",
             "repo": "Bongard-HOI",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "cvpr2022",
+              "few-shot-learning",
+              "pytorch",
+              "visual-reasoning"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1480,12 +2119,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2022] RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning",
+            "homepage": null,
             "id": 470390219,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-10T16:01:52Z",
+            "open_issues": 3,
             "owner": "NVlabs",
             "repo": "RelViT",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "hico-det",
+              "iclr2022",
+              "pytorch",
+              "visual-reasoning",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1502,12 +2152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 62528505,
             "language": "Matlab",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-16T23:10:33Z",
+            "open_issues": 7,
             "owner": "Prof-Lu-Cewu",
             "repo": "Visual-Relationship-Detection",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1518,12 +2173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detecting Visual Relationships with Deep Relational Networks",
+            "homepage": null,
             "id": 87792242,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-30T03:00:41Z",
+            "open_issues": 10,
             "owner": "doubledaibo",
             "repo": "drnet_cvpr2017",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1534,12 +2194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of the \"Deep Variation-structured Reinforcement Learning for Visual Relationship and Attribute Detection\" paper by Liang et. al.",
+            "homepage": null,
             "id": 123105603,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-18T11:01:12Z",
+            "open_issues": 5,
             "owner": "nexusapoorvacus",
             "repo": "DeepVariationStructuredRL",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1550,12 +2215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Detecting Visual Relationships with Deep Relational Networks",
+            "homepage": null,
             "id": 87792242,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-30T03:00:41Z",
+            "open_issues": 10,
             "owner": "doubledaibo",
             "repo": "drnet_cvpr2017",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1566,12 +2236,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for our paper \"Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues.\"",
+            "homepage": null,
             "id": 74321287,
             "language": "Matlab",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-08T19:47:56Z",
+            "open_issues": 1,
             "owner": "BryanPlummer",
             "repo": "pl-clc",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1582,12 +2257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 97680527,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-22T02:05:59Z",
+            "open_issues": 10,
             "owner": "StanfordVL",
             "repo": "ReferringRelationships",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1598,12 +2278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "two models for visual relationship detection",
+            "homepage": null,
             "id": 129213378,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-10T01:25:19Z",
+            "open_issues": 19,
             "owner": "yangxuntu",
             "repo": "vrd",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1620,12 +2305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python wrapper for the Visual Genome API",
+            "homepage": null,
             "id": 43793466,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-09-21T20:39:56Z",
+            "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         },
@@ -1636,12 +2326,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the ACL paper \"No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling\"",
+            "homepage": "https://arxiv.org/abs/1804.09160",
             "id": 130807083,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-19T19:59:32Z",
+            "open_issues": 4,
             "owner": "eric-xw",
             "repo": "AREL",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "adversarial-learning",
+              "adversarial-reward-learning",
+              "inverse-reinforcement-learning",
+              "rl",
+              "vision-and-language",
+              "visual-storytelling"
+            ]
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
         }
@@ -1650,15 +2352,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:46:31.117Z",
+    "last_updated": "2026-08-29T04:42:53.286Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
+      "homepage": null,
       "id": 217469033,
       "language": null,
+      "license": null,
       "last_commit": "2024-11-04T05:17:21Z",
+      "open_issues": 1,
       "owner": "sangminwoo",
       "repo": "awesome-vision-and-language",
-      "stars": 564
+      "stars": 564,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "multimodal-learning",
+        "vision-and-language"
+      ]
     },
     "original_repository_sha": "04b9f7406b88ccc6acc1962594679f70c6785379",
     "enhanced_repository": "enhansome/enhansome-vision-and-language",
