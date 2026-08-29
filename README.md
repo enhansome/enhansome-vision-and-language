@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,520 | 🐛 92 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,521 | 🐛 92 | 📅 2024-05-17.
 
 **Table Of Contents**
 
