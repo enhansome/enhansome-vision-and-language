@@ -945,7 +945,7 @@
             "open_issues": 31,
             "owner": "reedscot",
             "repo": "icml2016",
-            "stars": 911,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:54:07.744Z",
+    "last_updated": "2026-09-01T21:05:23.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
