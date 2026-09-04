@@ -1257,7 +1257,7 @@
             "open_issues": 100,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
-            "stars": 2222,
+            "stars": 2223,
             "topics": [
               "acceleration",
               "efficient-model",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:05:38.684Z",
+    "last_updated": "2026-09-04T20:48:16.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
