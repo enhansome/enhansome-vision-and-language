@@ -693,7 +693,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "sg2im",
-            "stars": 1325,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -876,7 +876,7 @@
             "open_issues": 124,
             "owner": "KaihuaTang",
             "repo": "Scene-Graph-Benchmark.pytorch",
-            "stars": 1195,
+            "stars": 1196,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:27:29.600Z",
+    "last_updated": "2026-09-07T21:34:09.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
