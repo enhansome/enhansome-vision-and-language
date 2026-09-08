@@ -693,7 +693,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "sg2im",
-            "stars": 1324,
+            "stars": 1323,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -714,7 +714,7 @@
             "open_issues": 44,
             "owner": "jwyang",
             "repo": "graph-rcnn.pytorch",
-            "stars": 748,
+            "stars": 749,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1464,7 +1464,7 @@
             "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2096,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1643,7 +1643,7 @@
             "open_issues": 0,
             "owner": "repo-atvc",
             "repo": "Accountable-Textual-Visual-Chat",
-            "stars": 7,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:34:09.317Z",
+    "last_updated": "2026-09-08T21:13:12.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
@@ -2364,7 +2364,7 @@
       "open_issues": 1,
       "owner": "sangminwoo",
       "repo": "awesome-vision-and-language",
-      "stars": 564,
+      "stars": 563,
       "topics": [
         "awesome",
         "awesome-list",

@@ -113,7 +113,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Title                                                                                   | Conference / Journal | Paper                                          | Code                                                                                                                            | Remarks |
 | --------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | Towards Unconstrained End-to-End Text Spotting                                          | 2019 ICCV            | [1908.09231](https://arxiv.org/abs/1908.09231) | []()                                                                                                                            | []()    |
-| What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis | 2019 ICCV            | [1904.01906](https://arxiv.org/abs/1904.01906) | [clovaai](https://github.com/clovaai/deep-text-recognition-benchmark) ⭐ 3,941 \| 🐛 244 \| 🌐 Jupyter Notebook \| 📅 2024-03-04 | []()    |
+| What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis | 2019 ICCV            | [1904.01906](https://arxiv.org/abs/1904.01906) | [clovaai](https://github.com/clovaai/deep-text-recognition-benchmark) ⭐ 3,942 \| 🐛 244 \| 🌐 Jupyter Notebook \| 📅 2024-03-04 | []()    |
 |                                                                                         |                      | []()                                           | []()                                                                                                                            | []()    |
 
 ## Scene Graph
@@ -128,7 +128,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Generating Triples with Adversarial Networks for Scene Graph Construction                | 2018 AAAI            | [1802.02598](https://arxiv.org/abs/1802.02598)                                                              |                                                                                                                                                       |                                           |
 | LinkNet: Relational Embedding for Scene Graph                                            | 2018 NIPS            | [1811.06410](https://arxiv.org/abs/1811.06410)                                                              |                                                                                                                                                       |                                           |
 | Image Generation from Scene Graphs                                                       | 2018 CVPR            | [1804.01622](https://arxiv.org/abs/1804.01622)                                                              | [sg2im](https://github.com/google/sg2im) ⚠️ Archived                                                                                                  |                                           |
-| Graph R-CNN for Scene Graph Generation                                                   | 2018 ECCV            | [1808.00191](https://arxiv.org/abs/1808.00191)                                                              | [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch) ⭐ 748 \| 🐛 44 \| 🌐 Python \| 📅 2020-04-01                                       |                                           |
+| Graph R-CNN for Scene Graph Generation                                                   | 2018 ECCV            | [1808.00191](https://arxiv.org/abs/1808.00191)                                                              | [graph-rcnn.pytorch](https://github.com/jwyang/graph-rcnn.pytorch) ⭐ 749 \| 🐛 44 \| 🌐 Python \| 📅 2020-04-01                                       |                                           |
 | Scene Graph Generation with External Knowledge and Image Reconstruction                  | 2019 CVPR            | [1904.00560](https://arxiv.org/abs/1904.00560)                                                              |                                                                                                                                                       |                                           |
 | Specifying Object Attributes and Relations in Interactive Scene Generation               | 2019 ICCV            | [1909.05379](https://arxiv.org/abs/1909.05379)                                                              | [scene\_generation](https://github.com/ashual/scene_generation) ⭐ 194 \| 🐛 13 \| 🌐 Python \| 📅 2023-10-03                                          | []()                                      |
 | Attentive Relational Networks for Mapping Images to Scene Graphs                         | 2019 CVPR            | [1811.10696](https://arxiv.org/abs/1811.10696)                                                              | []()                                                                                                                                                  | []()                                      |
@@ -235,7 +235,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | Visual Dialog                                                                               | 2017 CVPR            | [1611.08669](https://arxiv.org/abs/1611.08669) | [visdial](https://github.com/batra-mlp-lab/visdial) ⭐ 228 \| 🐛 2 \| 🌐 Lua \| 📅 2018-11-29                     | [visualdialog](https://visualdialog.org/) |
 | Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering | 2018 CVPR            | [1803.11186](https://arxiv.org/abs/1803.11186) |                                                                                                                  |                                           |
-| Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation    | 2023                 | [2303.05983](https://arxiv.org/abs/2303.05983) | [ATVC](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 7 \| 🐛 0 \| 🌐 Shell \| 📅 2023-06-17 | []()                                      |
+| Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation    | 2023                 | [2303.05983](https://arxiv.org/abs/2303.05983) | [ATVC](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 6 \| 🐛 0 \| 🌐 Shell \| 📅 2023-06-17 | []()                                      |
 |                                                                                             |                      | []()                                           | []()                                                                                                             | []()                                      |
 
 ## Visual Grounding
@@ -324,7 +324,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language/pulls) ⭐ 564 | 🐛 1 | 📅 2024-11-04 or email (<shmwoo9395@gmail.com>) to add links.
+Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language/pulls) ⭐ 563 | 🐛 1 | 📅 2024-11-04 or email (<shmwoo9395@gmail.com>) to add links.
 
 ## Licenses
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
