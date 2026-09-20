@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,564 | 🐛 97 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,568 | 🐛 97 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -235,7 +235,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | ------------------------------------------------------------------------------------------- | -------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | Visual Dialog                                                                               | 2017 CVPR            | [1611.08669](https://arxiv.org/abs/1611.08669) | [visdial](https://github.com/batra-mlp-lab/visdial) ⭐ 228 \| 🐛 2 \| 🌐 Lua \| 📅 2018-11-29                     | [visualdialog](https://visualdialog.org/) |
 | Two Can Play This Game: Visual Dialog With Discriminative Question Generation and Answering | 2018 CVPR            | [1803.11186](https://arxiv.org/abs/1803.11186) |                                                                                                                  |                                           |
-| Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation    | 2023                 | [2303.05983](https://arxiv.org/abs/2303.05983) | [ATVC](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 6 \| 🐛 0 \| 🌐 Shell \| 📅 2023-06-17 | []()                                      |
+| Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation    | 2023                 | [2303.05983](https://arxiv.org/abs/2303.05983) | [ATVC](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat) ⭐ 7 \| 🐛 0 \| 🌐 Shell \| 📅 2023-06-17 | []()                                      |
 |                                                                                             |                      | []()                                           | []()                                                                                                             | []()                                      |
 
 ## Visual Grounding
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

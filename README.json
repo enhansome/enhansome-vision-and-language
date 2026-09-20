@@ -1643,7 +1643,7 @@
             "open_issues": 0,
             "owner": "repo-atvc",
             "repo": "Accountable-Textual-Visual-Chat",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:45:31.054Z",
+    "last_updated": "2026-09-20T20:52:50.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
