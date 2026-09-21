@@ -1319,7 +1319,7 @@
             "open_issues": 55,
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 965,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T20:52:50.829Z",
+    "last_updated": "2026-09-21T22:01:03.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
