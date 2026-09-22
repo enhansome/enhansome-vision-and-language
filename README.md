@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,568 | 🐛 99 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,570 | 🐛 99 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -104,7 +104,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Learning Relation Alignment for Calibrated Cross-modal Retrieval                                 | 2021 ACL             | [2105.13868](https://arxiv.org/abs/2105.13868) | [IAIS](https://github.com/lancopku/IAIS) ⭐ 34 \| 🐛 1 \| 🌐 Python \| 📅 2023-05-16                    | []()    |
 | ImageCoDe: Image Retrieval from Contextual Descriptions                                          | 2022 ACL             | [2203.15867](https://arxiv.org/abs/2203.15867) | [ImageCoDe](https://github.com/McGill-NLP/imagecode) ⭐ 42 \| 🐛 0 \| 🌐 Python \| 📅 2024-03-01        | []()    |
 | Assessing Brittleness of Image-Text Retrieval Benchmarks from Vision-Language Models Perspective |                      | [2407.15239](https://arxiv.org/abs/2407.15239) | []()                                                                                                   | []()    |
-| UniIR: Training and Benchmarking Universal Multimodal Information Retrievers                     | 2024 ECCV            | [2311.17136](https://arxiv.org/abs/2311.17136) | [UniIR](https://github.com/TIGER-AI-Lab/UniIR) ⭐ 185 \| 🐛 17 \| 🌐 Python \| 📅 2024-10-01            | []()    |
+| UniIR: Training and Benchmarking Universal Multimodal Information Retrievers                     | 2024 ECCV            | [2311.17136](https://arxiv.org/abs/2311.17136) | [UniIR](https://github.com/TIGER-AI-Lab/UniIR) ⭐ 186 \| 🐛 17 \| 🌐 Python \| 📅 2024-10-01            | []()    |
 | Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval                             | 2024 ECCV            | [2407.12346](https://arxiv.org/abs/2407.12346) | [Q-Pert](https://github.com/NEC-N-SOGI/query-perturbation) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-18   | []()    |
 |                                                                                                  |                      | []()                                           | []()                                                                                                   | []()    |
 
@@ -189,7 +189,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 
 | Title                                                        | Conference / Journal | Paper                                          | Code                                                                                                                          | Remarks |
 | ------------------------------------------------------------ | -------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------- |
-| TSM: Temporal Shift Module for Efficient Video Understanding | 2019 ICCV            | [1811.08383](https://arxiv.org/abs/1811.08383) | [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) ⭐ 2,223 \| 🐛 100 \| 🌐 Python \| 📅 2024-07-11 |         |
+| TSM: Temporal Shift Module for Efficient Video Understanding | 2019 ICCV            | [1811.08383](https://arxiv.org/abs/1811.08383) | [temporal-shift-module](https://github.com/mit-han-lab/temporal-shift-module) ⭐ 2,224 \| 🐛 100 \| 🌐 Python \| 📅 2024-07-11 |         |
 | A Graph-Based Framework to Bridge Movies and Synopses        | 2019 ICCV            | [1910.11009](https://arxiv.org/abs/1910.11009) | []()                                                                                                                          | []()    |
 |                                                              |                      | []()                                           | []()                                                                                                                          | []()    |
 
@@ -216,7 +216,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks                           | 2020 ECCV            | [1911.11237](https://arxiv.org/abs/1911.11237)                                                             | [Oscar](https://github.com/microsoft/Oscar) ⚠️ Archived                                                           | []()    |
 | Unsupervised Learning of Visual Features by Contrasting Cluster Assignments                      | 2020 NIPS            | [2006.09882](https://arxiv.org/abs/2006.09882)                                                             | [swav](https://github.com/facebookresearch/swav) ⚠️ Archived                                                      | []()    |
 | Learning to Learn Words from Visual Scenes                                                       | 2020 ECCV            | [2004.06165](https://arxiv.org/abs/2004.06165)                                                             | [Oscar](https://github.com/microsoft/Oscar) ⚠️ Archived                                                           | []()    |
-| ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs               | 2021 AAAI            | [2006.16934](https://arxiv.org/abs/2006.16934)                                                             | [ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,737 \| 🐛 83 \| 🌐 Python \| 📅 2026-07-24                     | []()    |
+| ERNIE-ViL: Knowledge Enhanced Vision-Language Representations through Scene Graphs               | 2021 AAAI            | [2006.16934](https://arxiv.org/abs/2006.16934)                                                             | [ERNIE](https://github.com/PaddlePaddle/ERNIE) ⭐ 7,738 \| 🐛 83 \| 🌐 Python \| 📅 2026-07-24                     | []()    |
 | VinVL: Revisiting Visual Representations in Vision-Language Models                               | 2021 CVPR            | [2101.00529](https://arxiv.org/abs/2101.00529)                                                             | [VinVL](https://github.com/pzzhang/VinVL) ⭐ 360 \| 🐛 34 \| 📅 2023-07-26                                         | []()    |
 | VirTex: Learning Visual Representations from Textual Annotations                                 | 2021 CVPR            | [2006.06666](https://arxiv.org/abs/2006.06666)                                                             | [virtex](https://github.com/kdexd/virtex) ⭐ 563 \| 🐛 8 \| 🌐 Python \| 📅 2025-08-22                             | []()    |
 | Learning Transferable Visual Models From Natural Language Supervision                            | 2021 arxiv           | [2103.00020](https://arxiv.org/abs/2103.00020)                                                             | []()                                                                                                              | []()    |
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
