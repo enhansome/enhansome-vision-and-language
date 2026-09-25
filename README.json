@@ -1254,7 +1254,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-07-11T18:54:08Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
             "stars": 2226,
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T21:34:00.576Z",
+    "last_updated": "2026-09-25T21:38:15.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
