@@ -324,7 +324,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language/pulls) ⭐ 564 | 🐛 1 | 📅 2024-11-04 or email (<shmwoo9395@gmail.com>) to add links.
+Please feel free to send me [pull requests](https://github.com/sangminwoo/awesome-vision-and-language/pulls) or email (<shmwoo9395@gmail.com>) to add links.
 
 ## Licenses
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
