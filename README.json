@@ -1393,7 +1393,7 @@
             "open_issues": 2,
             "owner": "microsoft",
             "repo": "Unicoder",
-            "stars": 91,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:31.199Z",
+    "last_updated": "2026-10-03T21:22:09.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
