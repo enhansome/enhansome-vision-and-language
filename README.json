@@ -1178,7 +1178,7 @@
             "open_issues": 1,
             "owner": "makarandtapaswi",
             "repo": "MovieQA_CVPR2016",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1199,7 +1199,7 @@
             "open_issues": 4,
             "owner": "jayleicn",
             "repo": "TVQA",
-            "stars": 181,
+            "stars": 182,
             "topics": [
               "dataset",
               "pytorch",
@@ -1257,7 +1257,7 @@
             "open_issues": 101,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
-            "stars": 2226,
+            "stars": 2225,
             "topics": [
               "acceleration",
               "efficient-model",
@@ -1464,7 +1464,7 @@
             "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2092,
+            "stars": 2093,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1933,7 +1933,7 @@
             "open_issues": 4,
             "owner": "markdtw",
             "repo": "vqa-winner-cvprw-2017",
-            "stars": 162,
+            "stars": 163,
             "topics": [
               "pytorch",
               "visual-question-answering"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:06:23.463Z",
+    "last_updated": "2026-10-06T10:56:14.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
