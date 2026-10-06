@@ -735,7 +735,7 @@
             "open_issues": 13,
             "owner": "ashual",
             "repo": "scene_generation",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1092,7 +1092,7 @@
             "open_issues": 13,
             "owner": "ashual",
             "repo": "scene_generation",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:14.694Z",
+    "last_updated": "2026-10-06T22:40:39.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
