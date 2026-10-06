@@ -987,7 +987,7 @@
             "open_issues": 86,
             "owner": "taoxugit",
             "repo": "AttnGAN",
-            "stars": 1363,
+            "stars": 1364,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1178,7 +1178,7 @@
             "open_issues": 1,
             "owner": "makarandtapaswi",
             "repo": "MovieQA_CVPR2016",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1199,7 +1199,7 @@
             "open_issues": 4,
             "owner": "jayleicn",
             "repo": "TVQA",
-            "stars": 182,
+            "stars": 181,
             "topics": [
               "dataset",
               "pytorch",
@@ -1464,7 +1464,7 @@
             "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2093,
+            "stars": 2092,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1933,7 +1933,7 @@
             "open_issues": 4,
             "owner": "markdtw",
             "repo": "vqa-winner-cvprw-2017",
-            "stars": 163,
+            "stars": 162,
             "topics": [
               "pytorch",
               "visual-question-answering"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T21:33:14.850Z",
+    "last_updated": "2026-10-06T00:06:23.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
