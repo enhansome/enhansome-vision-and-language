@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,589 | 🐛 99 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,590 | 🐛 99 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
