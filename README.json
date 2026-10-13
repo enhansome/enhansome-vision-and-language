@@ -1514,7 +1514,7 @@
             "open_issues": 81,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7734,
+            "stars": 7736,
             "topics": [
               "ernie",
               "ernie-45",
@@ -1617,7 +1617,7 @@
             "open_issues": 2,
             "owner": "batra-mlp-lab",
             "repo": "visdial",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T22:02:21.957Z",
+    "last_updated": "2026-10-13T00:46:20.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
