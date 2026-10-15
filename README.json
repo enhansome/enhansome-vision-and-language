@@ -1340,7 +1340,7 @@
             "open_issues": 44,
             "owner": "jiasenlu",
             "repo": "vilbert_beta",
-            "stars": 477,
+            "stars": 478,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 81,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7736,
+            "stars": 7737,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T21:45:20.602Z",
+    "last_updated": "2026-10-15T21:27:42.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
