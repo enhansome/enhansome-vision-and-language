@@ -693,7 +693,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "sg2im",
-            "stars": 1325,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1257,7 +1257,7 @@
             "open_issues": 101,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
-            "stars": 2227,
+            "stars": 2228,
             "topics": [
               "acceleration",
               "efficient-model",
@@ -1514,7 +1514,7 @@
             "open_issues": 81,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7738,
+            "stars": 7739,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:24:31.532Z",
+    "last_updated": "2026-10-20T21:40:52.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
