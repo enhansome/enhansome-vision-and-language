@@ -945,7 +945,7 @@
             "open_issues": 31,
             "owner": "reedscot",
             "repo": "icml2016",
-            "stars": 910,
+            "stars": 911,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1774,7 +1774,7 @@
             "open_issues": 10,
             "owner": "akirafukui",
             "repo": "vqa-mcb",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1864,7 +1864,7 @@
             "open_issues": 10,
             "owner": "akirafukui",
             "repo": "vqa-mcb",
-            "stars": 219,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T21:46:23.043Z",
+    "last_updated": "2026-10-22T21:41:06.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
