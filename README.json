@@ -1691,7 +1691,7 @@
             "open_issues": 4,
             "owner": "TheShadow29",
             "repo": "zsgnet-pytorch",
-            "stars": 71,
+            "stars": 70,
             "topics": [
               "grounding",
               "nlp",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:55:23.992Z",
+    "last_updated": "2026-10-26T22:43:20.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
@@ -2364,7 +2364,7 @@
       "open_issues": 1,
       "owner": "sangminwoo",
       "repo": "awesome-vision-and-language",
-      "stars": 566,
+      "stars": 567,
       "topics": [
         "awesome",
         "awesome-list",

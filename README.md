@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,622 | 🐛 99 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,623 | 🐛 99 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -246,7 +246,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Phrase Localization Without Paired Training Examples                                  | 2019 ICCV            | [1908.07553](https://arxiv.org/abs/1908.07553) | []()                                                                                               | []()    |
 | Learning to Assemble Neural Module Tree Networks for Visual Grounding                 | 2019 ICCV            | [1812.03299](https://arxiv.org/abs/1812.03299) | []()                                                                                               | []()    |
 | A Fast and Accurate One-Stage Approach to Visual Grounding                            | 2019 ICCV            | [1908.06354](https://arxiv.org/abs/1908.06354) | []()                                                                                               | []()    |
-| Zero-Shot Grounding of Objects from Natural Language Queries                          | 2019 ICCV            | [1908.07129](https://arxiv.org/abs/1908.07129) | [zsgnet](https://github.com/TheShadow29/zsgnet-pytorch) ⭐ 71 \| 🐛 4 \| 🌐 Python \| 📅 2020-04-22 | []()    |
+| Zero-Shot Grounding of Objects from Natural Language Queries                          | 2019 ICCV            | [1908.07129](https://arxiv.org/abs/1908.07129) | [zsgnet](https://github.com/TheShadow29/zsgnet-pytorch) ⭐ 70 \| 🐛 4 \| 🌐 Python \| 📅 2020-04-22 | []()    |
 | Collaborative Transformers for Grounded Situation Recognition                         | 2022 CVPR            | [2203.16518](https://arxiv.org/abs/2203.16518) | [CoFormer](https://github.com/jhcho99/CoFormer) ⭐ 51 \| 🐛 0 \| 🌐 Python \| 📅 2023-04-09         | []()    |
 |                                                                                       |                      | []()                                           | []()                                                                                               | []()    |
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
