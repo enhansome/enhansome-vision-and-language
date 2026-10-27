@@ -553,7 +553,7 @@
             "open_issues": 17,
             "owner": "TIGER-AI-Lab",
             "repo": "UniIR",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "language-model",
               "retrieval"
@@ -1257,7 +1257,7 @@
             "open_issues": 101,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "acceleration",
               "efficient-model",
@@ -1358,7 +1358,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2020-10-31T20:31:03Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "subho406",
             "repo": "OmniNet",
             "stars": 514,
@@ -1514,7 +1514,7 @@
             "open_issues": 81,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7742,
+            "stars": 7741,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:43:20.731Z",
+    "last_updated": "2026-10-27T22:19:38.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
