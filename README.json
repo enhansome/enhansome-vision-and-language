@@ -1461,7 +1461,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2023-04-13T16:40:34Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "facebookresearch",
             "repo": "swav",
             "stars": 2092,
@@ -1514,7 +1514,7 @@
             "open_issues": 81,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7740,
+            "stars": 7741,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:39:28.367Z",
+    "last_updated": "2026-10-29T22:48:20.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
