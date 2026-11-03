@@ -309,7 +309,7 @@
             "open_issues": 31,
             "owner": "jiasenlu",
             "repo": "NeuralBabyTalk",
-            "stars": 525,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -330,7 +330,7 @@
             "open_issues": 11,
             "owner": "fengyang0317",
             "repo": "unsupervised_captioning",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -396,7 +396,7 @@
             "open_issues": 11,
             "owner": "fengyang0317",
             "repo": "unsupervised_captioning",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -714,7 +714,7 @@
             "open_issues": 44,
             "owner": "jwyang",
             "repo": "graph-rcnn.pytorch",
-            "stars": 749,
+            "stars": 748,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -786,7 +786,7 @@
             "open_issues": 36,
             "owner": "NVIDIA",
             "repo": "ContrastiveLosses4VRD",
-            "stars": 199,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1319,7 +1319,7 @@
             "open_issues": 55,
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:06:40.742Z",
+    "last_updated": "2026-11-03T01:01:58.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
@@ -2364,7 +2364,7 @@
       "open_issues": 1,
       "owner": "sangminwoo",
       "repo": "awesome-vision-and-language",
-      "stars": 567,
+      "stars": 568,
       "topics": [
         "awesome",
         "awesome-list",
