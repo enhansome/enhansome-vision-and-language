@@ -1464,7 +1464,7 @@
             "open_issues": 42,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2092,
+            "stars": 2091,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1511,7 +1511,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T21:37:38Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
             "stars": 7739,
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:40:35.104Z",
+    "last_updated": "2026-11-06T23:13:45.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
