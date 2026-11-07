@@ -1514,7 +1514,7 @@
             "open_issues": 80,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7739,
+            "stars": 7740,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:13:45.486Z",
+    "last_updated": "2026-11-07T21:55:40.446Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
