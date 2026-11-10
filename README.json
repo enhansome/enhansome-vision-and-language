@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -309,7 +309,7 @@
             "open_issues": 31,
             "owner": "jiasenlu",
             "repo": "NeuralBabyTalk",
-            "stars": 524,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -604,7 +604,7 @@
             "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1257,7 +1257,7 @@
             "open_issues": 101,
             "owner": "mit-han-lab",
             "repo": "temporal-shift-module",
-            "stars": 2229,
+            "stars": 2230,
             "topics": [
               "acceleration",
               "efficient-model",
@@ -1514,7 +1514,7 @@
             "open_issues": 80,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7739,
+            "stars": 7740,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2314,7 +2314,7 @@
             "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:36:12.901Z",
+    "last_updated": "2026-11-10T23:27:15.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
