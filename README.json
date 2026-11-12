@@ -966,7 +966,7 @@
             "open_issues": 55,
             "owner": "hanzhanggit",
             "repo": "StackGAN",
-            "stars": 1861,
+            "stars": 1860,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:27:15.652Z",
+    "last_updated": "2026-11-12T00:47:15.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
