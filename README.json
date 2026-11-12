@@ -1511,7 +1511,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T21:37:38Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
             "stars": 7740,
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:47:15.460Z",
+    "last_updated": "2026-11-12T23:41:02.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
