@@ -40,7 +40,7 @@
             "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "commonsense",
               "reasoning",
@@ -309,7 +309,7 @@
             "open_issues": 31,
             "owner": "jiasenlu",
             "repo": "NeuralBabyTalk",
-            "stars": 523,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -625,7 +625,7 @@
             "open_issues": 25,
             "owner": "danfeiX",
             "repo": "scene-graph-TF-release",
-            "stars": 437,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -667,7 +667,7 @@
             "open_issues": 41,
             "owner": "rowanz",
             "repo": "neural-motifs",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "pytorch",
               "scene-graph",
@@ -693,7 +693,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "sg2im",
-            "stars": 1326,
+            "stars": 1327,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -714,7 +714,7 @@
             "open_issues": 44,
             "owner": "jwyang",
             "repo": "graph-rcnn.pytorch",
-            "stars": 748,
+            "stars": 749,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1319,7 +1319,7 @@
             "open_issues": 55,
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 970,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1511,10 +1511,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T21:37:38Z",
-            "open_issues": 80,
+            "open_issues": 79,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7739,
+            "stars": 7740,
             "topics": [
               "ernie",
               "ernie-45",
@@ -1590,7 +1590,7 @@
             "open_issues": 5,
             "owner": "kzl",
             "repo": "universal-computation",
-            "stars": 246,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1774,7 +1774,7 @@
             "open_issues": 10,
             "owner": "akirafukui",
             "repo": "vqa-mcb",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1864,7 +1864,7 @@
             "open_issues": 10,
             "owner": "akirafukui",
             "repo": "vqa-mcb",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2032,7 +2032,7 @@
             "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "commonsense",
               "reasoning",
@@ -2060,7 +2060,7 @@
             "open_issues": 5,
             "owner": "KunpengLi1994",
             "repo": "VSRN",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:53:42.862Z",
+    "last_updated": "2026-11-17T01:52:40.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
