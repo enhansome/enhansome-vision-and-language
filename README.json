@@ -1435,7 +1435,7 @@
             "open_issues": 142,
             "owner": "microsoft",
             "repo": "Oscar",
-            "stars": 1054,
+            "stars": 1053,
             "topics": [
               "image-captioning",
               "image-text-search",
@@ -1485,7 +1485,7 @@
             "open_issues": 142,
             "owner": "microsoft",
             "repo": "Oscar",
-            "stars": 1054,
+            "stars": 1053,
             "topics": [
               "image-captioning",
               "image-text-search",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:52:40.578Z",
+    "last_updated": "2026-11-18T00:59:15.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
