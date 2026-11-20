@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -40,7 +40,7 @@
             "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 470,
+            "stars": 469,
             "topics": [
               "commonsense",
               "reasoning",
@@ -309,7 +309,7 @@
             "open_issues": 31,
             "owner": "jiasenlu",
             "repo": "NeuralBabyTalk",
-            "stars": 524,
+            "stars": 523,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -604,7 +604,7 @@
             "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -625,7 +625,7 @@
             "open_issues": 25,
             "owner": "danfeiX",
             "repo": "scene-graph-TF-release",
-            "stars": 438,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -667,7 +667,7 @@
             "open_issues": 41,
             "owner": "rowanz",
             "repo": "neural-motifs",
-            "stars": 546,
+            "stars": 545,
             "topics": [
               "pytorch",
               "scene-graph",
@@ -693,7 +693,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "sg2im",
-            "stars": 1327,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -714,7 +714,7 @@
             "open_issues": 44,
             "owner": "jwyang",
             "repo": "graph-rcnn.pytorch",
-            "stars": 749,
+            "stars": 748,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -876,7 +876,7 @@
             "open_issues": 124,
             "owner": "KaihuaTang",
             "repo": "Scene-Graph-Benchmark.pytorch",
-            "stars": 1199,
+            "stars": 1198,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1319,7 +1319,7 @@
             "open_issues": 55,
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 971,
+            "stars": 969,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1514,7 +1514,7 @@
             "open_issues": 79,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7740,
+            "stars": 7739,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2032,7 +2032,7 @@
             "open_issues": 19,
             "owner": "rowanz",
             "repo": "r2c",
-            "stars": 470,
+            "stars": 469,
             "topics": [
               "commonsense",
               "reasoning",
@@ -2060,7 +2060,7 @@
             "open_issues": 5,
             "owner": "KunpengLi1994",
             "repo": "VSRN",
-            "stars": 305,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2314,7 +2314,7 @@
             "open_issues": 20,
             "owner": "ranjaykrishna",
             "repo": "visual_genome_python_driver",
-            "stars": 372,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:27:37.300Z",
+    "last_updated": "2026-11-20T00:40:03.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
