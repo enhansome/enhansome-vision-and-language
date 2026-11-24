@@ -372,10 +372,10 @@
             "language": "OpenEdge ABL",
             "license": null,
             "last_commit": "2022-02-26T01:09:36Z",
-            "open_issues": 38,
+            "open_issues": 37,
             "owner": "yangxuntu",
             "repo": "SGAE",
-            "stars": 218,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:38:09.994Z",
+    "last_updated": "2026-11-24T03:58:20.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
