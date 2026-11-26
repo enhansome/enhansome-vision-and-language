@@ -330,7 +330,7 @@
             "open_issues": 11,
             "owner": "fengyang0317",
             "repo": "unsupervised_captioning",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -396,7 +396,7 @@
             "open_issues": 11,
             "owner": "fengyang0317",
             "repo": "unsupervised_captioning",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:31.117Z"
@@ -1337,7 +1337,7 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2022-11-21T21:32:12Z",
-            "open_issues": 44,
+            "open_issues": 43,
             "owner": "jiasenlu",
             "repo": "vilbert_beta",
             "stars": 478,
@@ -1514,7 +1514,7 @@
             "open_issues": 79,
             "owner": "PaddlePaddle",
             "repo": "ERNIE",
-            "stars": 7740,
+            "stars": 7742,
             "topics": [
               "ernie",
               "ernie-45",
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:32:52.114Z",
+    "last_updated": "2026-11-26T01:48:00.147Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
