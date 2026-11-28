@@ -1,6 +1,6 @@
 # Awesome Vision-and-Language: with stars
 
-A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,671 | 🐛 97 | 📅 2024-05-17.
+A curated list of awesome vision and language resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,672 | 🐛 97 | 📅 2024-05-17.
 
 **Table Of Contents**
 
@@ -104,7 +104,7 @@ A curated list of awesome vision and language resources, inspired by [awesome-co
 | Learning Relation Alignment for Calibrated Cross-modal Retrieval                                 | 2021 ACL             | [2105.13868](https://arxiv.org/abs/2105.13868) | [IAIS](https://github.com/lancopku/IAIS) ⭐ 34 \| 🐛 1 \| 🌐 Python \| 📅 2023-05-16                    | []()    |
 | ImageCoDe: Image Retrieval from Contextual Descriptions                                          | 2022 ACL             | [2203.15867](https://arxiv.org/abs/2203.15867) | [ImageCoDe](https://github.com/McGill-NLP/imagecode) ⭐ 42 \| 🐛 0 \| 🌐 Python \| 📅 2024-03-01        | []()    |
 | Assessing Brittleness of Image-Text Retrieval Benchmarks from Vision-Language Models Perspective |                      | [2407.15239](https://arxiv.org/abs/2407.15239) | []()                                                                                                   | []()    |
-| UniIR: Training and Benchmarking Universal Multimodal Information Retrievers                     | 2024 ECCV            | [2311.17136](https://arxiv.org/abs/2311.17136) | [UniIR](https://github.com/TIGER-AI-Lab/UniIR) ⭐ 186 \| 🐛 17 \| 🌐 Python \| 📅 2024-10-01            | []()    |
+| UniIR: Training and Benchmarking Universal Multimodal Information Retrievers                     | 2024 ECCV            | [2311.17136](https://arxiv.org/abs/2311.17136) | [UniIR](https://github.com/TIGER-AI-Lab/UniIR) ⭐ 185 \| 🐛 17 \| 🌐 Python \| 📅 2024-10-01            | []()    |
 | Object-Aware Query Perturbation for Cross-Modal Image-Text Retrieval                             | 2024 ECCV            | [2407.12346](https://arxiv.org/abs/2407.12346) | [Q-Pert](https://github.com/NEC-N-SOGI/query-perturbation) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-18   | []()    |
 |                                                                                                  |                      | []()                                           | []()                                                                                                   | []()    |
 
@@ -336,4 +336,4 @@ To the extent possible under law, [Sangmin Woo](https://github.com/sangminwoo) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

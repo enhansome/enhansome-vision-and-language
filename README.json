@@ -553,7 +553,7 @@
             "open_issues": 17,
             "owner": "TIGER-AI-Lab",
             "repo": "UniIR",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "language-model",
               "retrieval"
@@ -2352,7 +2352,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:46:01.960Z",
+    "last_updated": "2026-11-28T01:28:55.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome vision and language resources (still under construction... stay tuned!)",
